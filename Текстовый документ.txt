@@ -1,0 +1,32 @@
+public async Task<List<Movie>> GetMoviesByLetterRangeAsync(char startLetter, char endLetter)
+{
+    // Создаем шаблон для поиска по диапазону букв
+    var pattern = $"[{startLetter}-{endLetter}]%";
+    
+    return await context.Movies
+        .Where(m => EF.Functions.Like(m.Title, pattern))
+        .OrderBy(m => m.Title)
+        .ToListAsync();
+}
+
+public async Task<SessionPriceStats> GetSessionPriceStatsAsync(int movieId)
+{
+    var stats = await _context.Sessions
+        .Where(s => s.MovieId == movieId && s.IsActive)
+        .Select(s => s.Price)
+        .ToListAsync();
+
+    if (!stats.Any())
+    {
+        return new SessionPriceStats { MovieId = movieId };
+    }
+
+    return new SessionPriceStats
+    {
+        MovieId = movieId,
+        MinPrice = stats.Min(),
+        MaxPrice = stats.Max(),
+        AvgPrice = stats.Average(),
+        TotalSessions = stats.Count
+    };
+}
