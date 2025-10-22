@@ -11,9 +11,9 @@ public partial class Visitor
 
     public string? Name { get; set; }
 
-    public DateTime? BirthDate { get; set; }
+    public DateTime? Birthday { get; set; }
 
-    public string? Email { get; set; }
+    public string Email { get; set; } = null!;
 
     public virtual ICollection<Ticket> Tickets { get; set; } = new List<Ticket>();
 }

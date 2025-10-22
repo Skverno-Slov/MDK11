@@ -30,3 +30,43 @@ public async Task<SessionPriceStats> GetSessionPriceStatsAsync(int movieId)
         TotalSessions = stats.Count
     };
 }
+
+
+
+//Scaffold - DbContext "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ispp3114;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False" Microsoft.EntityFrameworkCore.SqlServer - Tables Visitor, Ticket, Movie, Session -ContextDir Contexts -Context DbContext -OutputDir Models
+
+////Task4
+//var genres = await genreService.GetGenresByMovieIdAsync(1);
+//foreach (var genre in genres)
+//    Console.WriteLine(genre);
+
+////Task5
+//Console.WriteLine(await sessionService.GetSessionDateTimeByTicketIdAsync(1));
+
+
+        public async Task<DateTime?> GetSessionDateTimeByTicketIdAsync(int ticketId)
+        {
+            var parameter = new SqlParameter("@TicketId", ticketId);
+
+            var result = await _context.Database.SqlQueryRaw<DateTime>(@"
+                SELECT s.StartDate 
+                FROM Session s
+                INNER JOIN Ticket t ON s.SessionId = t.SessionId
+                WHERE t.TicketId = @TicketId",
+                parameter).FirstOrDefaultAsync();
+
+            return result;
+        }
+
+        public async Task<List<string>> GetGenresByMovieIdAsync(int movieId)
+        {
+            var parameter = new SqlParameter("@MovieId", movieId);
+
+            return await _context.Database.SqlQueryRaw<string>(@"
+                SELECT g.Name 
+                FROM Genre g
+                INNER JOIN MovieGenre mg ON g.GenreId = mg.GenreId
+                WHERE mg.MovieId = @MovieId
+                ORDER BY g.Name",
+                parameter).ToListAsync();
+        }

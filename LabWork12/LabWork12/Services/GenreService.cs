@@ -8,17 +8,7 @@ namespace LabWork12.Services
     {
         readonly AppDbContext _context = context;
 
-        public async Task<List<string>> GetGenresByMovieIdAsync(int movieId)
-        {
-            var parameter = new SqlParameter("@MovieId", movieId);
-
-            return await _context.Database.SqlQueryRaw<string>(@"
-                SELECT g.Name 
-                FROM Genre g
-                INNER JOIN MovieGenre mg ON g.Id = mg.GenreId
-                WHERE mg.MovieId = @MovieId
-                ORDER BY g.Name",
-                parameter).ToListAsync();
-        }
+        public async Task<string> GetGenresByMovieIdAsync(int movieId)
+            => await _context.Database.SqlQuery<<string>($"SELECT * FROM Genre where GenreId IN(Select * FROM MovieGenre WHERE MovieId == {movieId})").ToListAsync();
     }
 }

@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\",
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\LabWork12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\repo\\labwork12\\labwork12\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\repo\\labwork12\\labwork12\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\repo\\labwork12\\labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\repo\\labwork12\\labwork12\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\repo\\labwork12\\labwork12\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|c:\\users\\thunder\\source\\repos\\labwork12\\labwork12\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08514748-9EF6-47EF-AD60-73757B20B0BF}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWork12\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THUNDER\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -45,121 +37,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 350,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Models\\Movie.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Models\\Movie.cs",
+              "RelativeToolTip": "LabWork12\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:17:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LabWork12\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:17:11.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GenreService.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Services\\GenreService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Services\\GenreService.cs",
               "RelativeDocumentMoniker": "LabWork12\\Services\\GenreService.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Services\\GenreService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Services\\GenreService.cs",
               "RelativeToolTip": "LabWork12\\Services\\GenreService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:36:50.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Visitor.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Models\\Visitor.cs",
-              "RelativeDocumentMoniker": "LabWork12\\Models\\Visitor.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Models\\Visitor.cs",
-              "RelativeToolTip": "LabWork12\\Models\\Visitor.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:27:26.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SessionService.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Services\\SessionService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Services\\SessionService.cs",
               "RelativeDocumentMoniker": "LabWork12\\Services\\SessionService.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Services\\SessionService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Services\\SessionService.cs",
               "RelativeToolTip": "LabWork12\\Services\\SessionService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T19:22:30.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "LabWork12\\Models\\Session.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Models\\Session.cs",
-              "RelativeToolTip": "LabWork12\\Models\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:09:52.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "LabWork12\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Models\\Movie.cs",
-              "RelativeToolTip": "LabWork12\\Models\\Movie.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:46:00.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LabWork12\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "LabWork12\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:45:33.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Services\\MovieService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Services\\MovieService.cs",
               "RelativeDocumentMoniker": "LabWork12\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Services\\MovieService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Services\\MovieService.cs",
               "RelativeToolTip": "LabWork12\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T18:37:51.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\THUNDER\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs",
-              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\THUNDER\\OneDrive\\Desktop\\DbLections31\\DbLections31\\DbLibrary\\Repositories\\DataBaseContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:34:32.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T18:34:32.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Program.cs",
               "RelativeDocumentMoniker": "LabWork12\\Program.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\source\\repos\\LabWork12\\LabWork12\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork12\\LabWork12\\Program.cs",
               "RelativeToolTip": "LabWork12\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T18:14:30.597Z",
               "EditorCaption": ""

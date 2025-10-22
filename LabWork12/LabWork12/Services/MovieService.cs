@@ -1,6 +1,5 @@
 ﻿using LabWork12.Contexts;
 using LabWork12.Models;
-using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
 namespace LabWork12.Services
@@ -11,15 +10,12 @@ namespace LabWork12.Services
 
         public async Task<List<Movie>> GetMoviesAsync(string sortColumn)
             => await _context.Movies
-                .FromSqlRaw($"SELECT * FROM Movie ORDER BY '{sortColumn}'")
+                .FromSqlRaw($"SELECT * FROM Movie ORDER BY {sortColumn}")
                 .ToListAsync();
 
-        public async Task<List<Movie>> GetMoviesByTitleAndYearAsync(string title, short year)
+        public async Task<List<Movie>> GetMoviesByNameAndYearAsync(string title, short year)
             => await _context.Movies
-                .FromSqlRaw(@"
-                    SELECT * FROM Movie 
-                    WHERE Title = @p0 AND Year >= @p1",
-                    title, year)
-                    .ToListAsync();
+                .FromSql($"SELECT * FROM Movie WHERE Name = {title} AND Year >= {year}")
+                .ToListAsync();
     }
 }
