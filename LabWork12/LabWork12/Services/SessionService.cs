@@ -1,4 +1,5 @@
 ﻿using LabWork12.Contexts;
+using LabWork12.Models;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,13 +9,33 @@ namespace LabWork12.Services
     {
         readonly AppDbContext _context = context;
 
-        public async Task<int> IncreasePricesByHallIdAsync(byte hallId, decimal amount)
+        public async Task<int> AddPricesByHallIdAsync(byte hallId,
+                                                      decimal amount)
             => await _context.Database
             .ExecuteSqlAsync($"""
-                UPDATE Session 
-                SET Price += {amount} 
-                WHERE HallId = { hallId }
+                update Session 
+                set Price += {amount} 
+                where HallId = { hallId }
                 """);
-                
+
+        public async Task<decimal> GetMinMoviePriceAsync(int movieId)
+            => await _context.Sessions
+                .Where(s => s.MovieId == movieId)
+                .MinAsync(s => s.Price);
+
+        public async Task<decimal> GetMaxMoviePriceAsync(int movieId)
+            => await _context.Sessions
+                .Where(s => s.MovieId == movieId)
+                .MaxAsync(s => s.Price);
+
+        public async Task<decimal> GetAverageMoviePriceAsync(int movieId)
+            => await _context.Sessions
+                .Where(s => s.MovieId == movieId)
+                .AverageAsync(s => s.Price);
+
+        public async Task<List<Session>> GetSessionsByMovieIdAsync(int movieId)
+            => await _context.Sessions
+                .FromSql($"select * from dbo.GetSessionsByMovieId({movieId})")
+                .ToListAsync();
     }
 }
