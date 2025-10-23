@@ -1,0 +1,12 @@
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.deps.json
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.dll
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\bin\Debug\net9.0\CinemaDbLibrary.pdb
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.csproj.AssemblyReference.cache
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.AssemblyInfoInputs.cache
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.AssemblyInfo.cs
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.csproj.CoreCompileInputs.cache
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.dll
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\refint\CinemaDbLibrary.dll
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\CinemaDbLibrary.pdb
+C:\temp\!ispp31\LabWorks\LabWork10\CinemaDbLibrary\obj\Debug\net9.0\ref\CinemaDbLibrary.dll

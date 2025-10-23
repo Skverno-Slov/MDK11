@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|c:\\temp\\!ispp31\\labworks\\labwork9\\labwork9\\labwork9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0138AFF1-63FB-4EC8-BE49-A360A2714713}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\labwork9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Services\\VisitorService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\VisitorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:00:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Services\\TicketService.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Services\\TicketService.cs",
+              "RelativeToolTip": "LabWork9\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:00:40.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "LabWork9\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:56:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Models\\Ticket.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Models\\Ticket.cs",
+              "RelativeToolTip": "LabWork9\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:43:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Models\\Visitor.cs",
+              "RelativeToolTip": "LabWork9\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:42:51.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabWork9.csproj",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\LabWork9.csproj",
+              "RelativeDocumentMoniker": "LabWork9\\LabWork9.csproj",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\LabWork9.csproj",
+              "RelativeToolTip": "LabWork9\\LabWork9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T08:41:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Program.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork9\\LabWork9\\Program.cs",
+              "RelativeToolTip": "LabWork9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:39:00.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
