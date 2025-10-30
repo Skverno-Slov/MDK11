@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork13", "LabWork13\LabWork13.csproj", "{DDFD0F97-692B-4E09-9F61-89C059B316FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork13CinemaLibrary", "LabWork13CinemaLibrary\LabWork13CinemaLibrary.csproj", "{D44B6116-D4BC-4AE0-88A3-4D794F670564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFD0F97-692B-4E09-9F61-89C059B316FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFD0F97-692B-4E09-9F61-89C059B316FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFD0F97-692B-4E09-9F61-89C059B316FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFD0F97-692B-4E09-9F61-89C059B316FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44B6116-D4BC-4AE0-88A3-4D794F670564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44B6116-D4BC-4AE0-88A3-4D794F670564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44B6116-D4BC-4AE0-88A3-4D794F670564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44B6116-D4BC-4AE0-88A3-4D794F670564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E3E2642-95F3-47D2-B8C7-180F9C17F1B4}
+	EndGlobalSection
+EndGlobal
