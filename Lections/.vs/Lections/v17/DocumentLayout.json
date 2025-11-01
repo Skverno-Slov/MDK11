@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\Lections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|solutionrelative:lection0111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|solutionrelative:lection0111\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\lection0111.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|solutionrelative:lection0111\\lection0111.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,11 +125,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Program.cs",
               "RelativeDocumentMoniker": "Lection1020\\Program.cs",
@@ -130,8 +142,51 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Lection0111",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Lection0111.csproj",
+              "RelativeDocumentMoniker": "Lection0111\\Lection0111.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Lection0111.csproj",
+              "RelativeToolTip": "Lection0111\\Lection0111.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T10:03:44.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lection0111\\Models\\Category.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Models\\Category.cs",
+              "RelativeToolTip": "Lection0111\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:57:15.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Program.cs",
+              "RelativeDocumentMoniker": "Lection0111\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Program.cs",
+              "RelativeToolTip": "Lection0111\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:55:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Lection1024",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
               "RelativeDocumentMoniker": "Lection1024\\Lection1024.csproj",
@@ -142,12 +197,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Lection1024\\Controllers\\CategoriesController.cs",
@@ -160,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Lection1024\\Models\\Category.cs",
@@ -168,11 +219,12 @@
               "RelativeToolTip": "Lection1024\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:33:45.81Z"
+              "WhenOpened": "2025-10-27T07:33:45.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Lection1024\\Models\\Game.cs",
@@ -180,24 +232,25 @@
               "RelativeToolTip": "Lection1024\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T07:33:44.348Z"
+              "WhenOpened": "2025-10-27T07:33:44.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "Lection1024\\Controllers\\GamesController.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\GamesController.cs",
               "RelativeToolTip": "Lection1024\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T07:13:20.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Lection1024\\Properties\\launchSettings.json",
@@ -210,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Lection1024.http",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.http",
               "RelativeDocumentMoniker": "Lection1024\\Lection1024.http",
@@ -218,24 +271,25 @@
               "RelativeToolTip": "Lection1024\\Lection1024.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-24T06:50:23.478Z"
+              "WhenOpened": "2025-10-24T06:50:23.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Program.cs",
               "RelativeDocumentMoniker": "Lection1024\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Program.cs",
               "RelativeToolTip": "Lection1024\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T06:46:38.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "lection1024--v1.json",
               "DocumentMoniker": "C:\\Users\\0109-14\\Downloads\\lection1024--v1.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\0109-14\\Downloads\\lection1024--v1.json",
@@ -243,11 +297,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\0109-14\\Downloads\\lection1024--v1.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-27T08:02:57.266Z"
+              "WhenOpened": "2025-10-27T08:02:57.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\DTOs\\GameDto.cs",
               "RelativeDocumentMoniker": "Lection1024\\DTOs\\GameDto.cs",
@@ -255,11 +310,12 @@
               "RelativeToolTip": "Lection1024\\DTOs\\GameDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T11:02:15.397Z"
+              "WhenOpened": "2025-10-29T11:02:15.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Lection1024\\WeatherForecast.cs",
@@ -267,36 +323,38 @@
               "RelativeToolTip": "Lection1024\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T06:49:52.489Z"
+              "WhenOpened": "2025-10-24T06:49:52.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Lection1024\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Lection1024\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T06:47:50.994Z"
+              "WhenOpened": "2025-10-24T06:47:50.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Lection1024.csproj",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
               "RelativeDocumentMoniker": "Lection1024\\Lection1024.csproj",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
               "RelativeToolTip": "Lection1024\\Lection1024.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-24T07:03:27.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "GamesDbContext.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Contexts\\GamesDbContext.cs",
               "RelativeDocumentMoniker": "Lection1024\\Contexts\\GamesDbContext.cs",
@@ -304,11 +362,12 @@
               "RelativeToolTip": "Lection1024\\Contexts\\GamesDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:04:57.585Z"
+              "WhenOpened": "2025-10-24T07:04:57.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Lection1020\\Models\\Game.cs",
@@ -316,11 +375,12 @@
               "RelativeToolTip": "Lection1020\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:59:01.965Z"
+              "WhenOpened": "2025-10-20T10:59:01.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Lection1020\\Models\\Category.cs",
@@ -328,11 +388,12 @@
               "RelativeToolTip": "Lection1020\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:59:00.22Z"
+              "WhenOpened": "2025-10-20T10:59:00.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "GamesDbContext.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Contexts\\GamesDbContext.cs",
               "RelativeDocumentMoniker": "Lection1020\\Contexts\\GamesDbContext.cs",
@@ -340,11 +401,12 @@
               "RelativeToolTip": "Lection1020\\Contexts\\GamesDbContext.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:58:10.646Z"
+              "WhenOpened": "2025-10-20T10:58:10.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Program.cs",
               "RelativeDocumentMoniker": "lection1007\\Program.cs",
@@ -352,11 +414,12 @@
               "RelativeToolTip": "lection1007\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:53:45.058Z"
+              "WhenOpened": "2025-10-20T10:53:45.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\DTOs\\GameDto.cs",
               "RelativeDocumentMoniker": "lection1007\\DTOs\\GameDto.cs",
@@ -364,11 +427,12 @@
               "RelativeToolTip": "lection1007\\DTOs\\GameDto.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:49:28.992Z"
+              "WhenOpened": "2025-10-20T10:49:28.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "GameFilter.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Filters\\GameFilter.cs",
               "RelativeDocumentMoniker": "lection1007\\Filters\\GameFilter.cs",
@@ -376,11 +440,12 @@
               "RelativeToolTip": "lection1007\\Filters\\GameFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:49:27.486Z"
+              "WhenOpened": "2025-10-20T10:49:27.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Models\\Category.cs",
               "RelativeDocumentMoniker": "lection1007\\Models\\Category.cs",
@@ -388,11 +453,12 @@
               "RelativeToolTip": "lection1007\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:49:22.199Z"
+              "WhenOpened": "2025-10-20T10:49:22.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Models\\Game.cs",
               "RelativeDocumentMoniker": "lection1007\\Models\\Game.cs",
@@ -400,11 +466,12 @@
               "RelativeToolTip": "lection1007\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:49:20.967Z"
+              "WhenOpened": "2025-10-20T10:49:20.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1012\\Program.cs",
               "RelativeDocumentMoniker": "Lection1012\\Program.cs",
@@ -412,11 +479,12 @@
               "RelativeToolTip": "Lection1012\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T06:09:57.311Z"
+              "WhenOpened": "2025-10-17T06:09:57.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1017\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Lection1017\\Models\\Student.cs",
@@ -424,11 +492,12 @@
               "RelativeToolTip": "Lection1017\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T05:59:44.316Z"
+              "WhenOpened": "2025-10-17T05:59:44.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1017\\Program.cs",
               "RelativeDocumentMoniker": "Lection1017\\Program.cs",
@@ -436,7 +505,8 @@
               "RelativeToolTip": "Lection1017\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T05:57:18.466Z"
+              "WhenOpened": "2025-10-17T05:57:18.466Z",
+              "EditorCaption": ""
             }
           ]
         }

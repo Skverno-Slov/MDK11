@@ -14,7 +14,7 @@
       },
       {
         "Name": "page",
-        "Type": "System.Int32",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "IsRequired": false
       }
     ],
@@ -282,7 +282,7 @@
   },
   {
     "ContainingType": "Lection1024.Controllers.GamesController",
-    "Method": "GetGameByCategory",
+    "Method": "GetGameByCategories",
     "RelativePath": "api/v1/Games/categories",
     "HttpMethod": "GET",
     "IsController": true,
@@ -290,6 +290,104 @@
     "Parameters": [
       {
         "Name": "categories",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Lection1024.Models.Game, Lection1024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Lection1024.Controllers.GamesController",
+    "Method": "GetGameByCategory",
+    "RelativePath": "api/v1/Games/category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Lection1024.Models.Game, Lection1024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Lection1024.Controllers.GamesController",
+    "Method": "GetGameByFilters",
+    "RelativePath": "api/v1/Games/filter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filters",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Lection1024.Models.Game, Lection1024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Lection1024.Controllers.GamesController",
+    "Method": "GetGamesInfo",
+    "RelativePath": "api/v1/Games/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Lection1024.DTOs.GameDto, Lection1024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Lection1024.Controllers.GamesController",
+    "Method": "GetGameByPrice",
+    "RelativePath": "api/v1/Games/price",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "price",
         "Type": "System.String",
         "IsRequired": false
       }
