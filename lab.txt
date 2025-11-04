@@ -1,0 +1,187 @@
+5.1 Создание структуры проектов
+5.1.1 Создание проекта "Веб-API ASP.NET Core"
+Запустите Visual Studio и выберите "Создать новый проект".
+Выберите "ASP.NET Core Web API" и нажмите "Далее".
+Дайте имя проекту и выберите путь.
+Убедитесь, что выбрана платформа .NET 9.
+Установите флажки "Включить поддержку OpenAPI" и "Использовать контроллеры".
+Нажмите "Создать", и проект будет создан.
+5.1.2 Настройка запуска браузера
+В launchSettings.json, расположенном в папке Properties, измените launchUrl для открытия страницы со Scalar.
+5.1.3 Создание проекта DatabaseLibrary
+Создайте новый проект "Библиотека классов (.NET)".
+Установите нужные пакеты для работы с БД (например, Entity Framework Core).
+Создайте контекст данных и модели для таблиц "Кинотеатр".
+5.1.4 Подключение контекста БД
+В Startup.cs добавьте код для подключения контекста БД и сгенерируйте контроллеры через EF Core Tools.
+5.1.5 Создание консольного проекта
+Создайте проект "Консольное приложение", чтобы тестировать работу API.
+5.1.6 Настройка запуска проектов
+Настройте параметры запуска для проектов: к проекту консоли добавьте Console.ReadLine(); в конец метода Main.
+5.2 Создание http-клиента с автоматической сериализацией/десериализацией
+5.2.1 Создание проекта ApiServicesLibrary
+Создайте новый проект "Библиотека классов (.NET)" для API-сервисов.
+5.2.2 Добавление класса для вызова методов
+Создайте класс API-клиента.
+Импортируйте HttpClient и реализуйте методы для чтения и записи данных:
+csharp
+
+Копировать код
+public class ApiClient
+{
+    private readonly HttpClient _client;
+    
+    public ApiClient(HttpClient client)
+    {
+        _client = client;
+    }
+
+    public async Task<T> GetAsync<T>(string url)
+    {
+        var response = await _client.GetAsync(url);
+        response.EnsureSuccessStatusCode();
+        return await response.Content.ReadFromJsonAsync<T>();
+    }
+
+    public async Task<T> PostAsync<T>(string url, T item)
+    {
+        var response = await _client.PostAsJsonAsync(url, item);
+        response.EnsureSuccessStatusCode();
+        return await response.Content.ReadFromJsonAsync<T>();
+    }
+}
+5.2.3 Проверка работы в консольном приложении
+Вызовите методы созданного класса в консоли, чтобы убедиться, что все работает корректно.
+5.3 Создание http-клиента с явной сериализацией/десериализацией
+5.3.1 Реализация явной десериализации
+Используйте следующую реализацию в вашем классе API-клиента:
+csharp
+
+Копировать код
+public async Task<T> GetByIdAsync<T>(string url)
+{
+    var response = await _client.GetAsync(url);
+    response.EnsureSuccessStatusCode();
+    var content = await response.Content.ReadAsStringAsync();
+    return JsonSerializer.Deserialize<T>(content, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+}
+5.3.2 Реализация явной сериализации
+Добавьте метод для записи:
+csharp
+
+Копировать код
+public async Task<T> CreateAsync<T>(string url, T item)
+{
+    var json = JsonSerializer.Serialize(item, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+    var content = new StringContent(json, Encoding.UTF8, "application/json");
+    var response = await _client.PostAsync(url, content);
+    response.EnsureSuccessStatusCode();
+    return await response.Content.ReadFromJsonAsync<T>();
+}
+5.3.3 Проверка работы в консольном приложении
+Запустите консольное приложение и выполните тестирование методов.
+5.4 Обработка разных статус-кодов при чтении данных
+5.4.1 Реализация обработки статусов
+В классе API
+
+продолжай
+
+
+
+.
+GPT-4o mini
+5.4 Обработка разных статус-кодов при чтении данных (продолжение)
+5.4.1 Реализация обработки статусов
+Добавьте метод в вашем классе API-клиента для обработки статусов ответа. Например:
+
+csharp
+
+Копировать код
+public async Task<T?> GetObjectAsync<T>(string url)
+{
+    var response = await _client.GetAsync(url);
+    
+    if (response.StatusCode == HttpStatusCode.NotFound)
+        return default; // Возврат null для кода 404
+
+    response.EnsureSuccessStatusCode(); // Генерация исключения для неуспешного кода
+
+    var content = await response.Content.ReadAsStringAsync();
+    return JsonSerializer.Deserialize<T>(content, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+}
+5.4.2 Обработка списка объектов
+Для метода получения списка объектов добавьте логику обработки кодов:
+
+csharp
+
+Копировать код
+public async Task<List<T>> GetListAsync<T>(string url)
+{
+    var response = await _client.GetAsync(url);
+    
+    if (response.StatusCode == HttpStatusCode.NoContent)
+        return new List<T>(); // Возврат пустого списка на код 204
+
+    if (response.StatusCode == HttpStatusCode.NotFound)
+        throw new Exception("Ресурс не найден"); // Генерация исключения для 404
+
+    response.EnsureSuccessStatusCode(); // Генерация исключения для неуспешного кода
+
+    var content = await response.Content.ReadAsStringAsync();
+    return JsonSerializer.Deserialize<List<T>>(content, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+}
+5.4.3 Проверка работы методов в консольном приложении
+В вашем консольном приложении вызовите эти методы и проверьте, как они обрабатывают разные статус-коды.
+5.5 Обработка разных статус-кодов при записи данных
+5.5.1 Реализация метода вставки объекта
+Добавьте метод для вставки объектов с обработкой различных статус-кодов:
+
+csharp
+
+Копировать код
+public async Task<T> CreateEntityAsync<T>(string url, T item)
+{
+    var json = JsonSerializer.Serialize(item, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+    var content = new StringContent(json, Encoding.UTF8, "application/json");
+    
+    var response = await _client.PostAsync(url, content);
+    
+    if (response.StatusCode == HttpStatusCode.Created)
+        return await response.Content.ReadFromJsonAsync<T>();
+
+    if (response.StatusCode == HttpStatusCode.BadRequest)
+        throw new Exception("Неверные данные, код 400");
+
+    if (response.StatusCode == HttpStatusCode.Conflict)
+        throw new Exception("Конфликт данных, код 409");
+
+    response.EnsureSuccessStatusCode(); // Генерация исключения для неуспешного кода
+    throw new Exception("Произошла ошибка при создании объекта");
+}
+5.5.2 Реализация метода изменения объекта
+Добавьте метод для изменения объектов с обработкой кодов:
+
+csharp
+
+Копировать код
+public async Task<bool> UpdateEntityAsync<T>(string url, T item)
+{
+    var json = JsonSerializer.Serialize(item, new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase });
+    var content = new StringContent(json, Encoding.UTF8, "application/json");
+    
+    var response = await _client.PutAsync(url, content);
+
+    if (response.StatusCode == HttpStatusCode.OK || response.StatusCode == HttpStatusCode.NoContent)
+        return true; // Обновление успешно
+
+    if (response.StatusCode == HttpStatusCode.NotFound)
+        return false; // Объект не найден
+
+    if (response.StatusCode == HttpStatusCode.BadRequest)
+        throw new Exception("Неверные данные, код 400");
+
+    response.EnsureSuccessStatusCode(); // Генерация исключения для неуспешного кода
+    throw new Exception("Ошибка обновления объекта");
+}
+5.5.3 Проверка работы методов в консольном приложении
+В вашем консольном приложении протестируйте методы для создания и изменения объектов, чтобы убедиться, что обработка статус-кодов работает корректно.
