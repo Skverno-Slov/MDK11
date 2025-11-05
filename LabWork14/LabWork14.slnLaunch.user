@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Запуск консоли и API",
+    "Projects": [
+      {
+        "Path": "LabWork14\\LabWork14.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "LabWorkConsoleApp\\LabWorkConsoleApp.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
