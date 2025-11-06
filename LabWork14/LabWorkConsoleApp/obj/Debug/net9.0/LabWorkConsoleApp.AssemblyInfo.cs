@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabWorkConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f799dfc8acc73bb98ba74970caf9786ec23a32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f28267eb9ab2a7a05e693f41d1f18b1996502c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabWorkConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabWorkConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

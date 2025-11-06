@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D8EF2F0E-3308-4500-8BEF-DC0C8CF1A8C2}|LabWorkConsoleApp\\LabWorkConsoleApp.csproj|solutionrelative:labworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|c:\\temp\\ispp31\\repo\\labwork14\\labwork14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|solutionrelative:labwork14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FF633BE-FC29-462A-8843-BB40B7672800}|ApiServiceLibrary\\ApiServiceLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork14\\apiservicelibrary\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF633BE-FC29-462A-8843-BB40B7672800}|ApiServiceLibrary\\ApiServiceLibrary.csproj|solutionrelative:apiservicelibrary\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|c:\\temp\\ispp31\\repo\\labwork14\\labwork14\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|solutionrelative:labwork14\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|c:\\temp\\ispp31\\repo\\labwork14\\labwork14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|solutionrelative:labwork14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|c:\\temp\\ispp31\\repo\\labwork14\\labwork14\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{AE6EE3EA-C372-4074-959E-8584C26CD188}|LabWork14\\LabWork14.csproj|solutionrelative:labwork14\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\ispp31\\Repo\\LabWork14\\DataBaseLibrary\\Contexts\\CinemaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataBaseLibrary\\Contexts\\CinemaDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6BD0B45-7F53-48A6-88AE-56E600337E20}|DataBaseLibrary\\DataBaseLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork14\\databaselibrary\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BD0B45-7F53-48A6-88AE-56E600337E20}|DataBaseLibrary\\DataBaseLibrary.csproj|solutionrelative:databaselibrary\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork14\\DataBaseLibrary\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "DataBaseLibrary\\Models\\Movie.cs",
@@ -62,18 +62,17 @@
               "RelativeToolTip": "DataBaseLibrary\\Models\\Movie.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T06:46:29.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T06:46:29.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MovieService.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork14\\ApiServiceLibrary\\MovieService.cs",
               "RelativeDocumentMoniker": "ApiServiceLibrary\\MovieService.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork14\\ApiServiceLibrary\\MovieService.cs",
               "RelativeToolTip": "ApiServiceLibrary\\MovieService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T05:51:56.563Z",
               "EditorCaption": ""
@@ -86,14 +85,14 @@
               "RelativeDocumentMoniker": "LabWorkConsoleApp\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork14\\LabWorkConsoleApp\\Program.cs*",
               "RelativeToolTip": "LabWorkConsoleApp\\Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T05:46:48.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork14\\LabWork14\\Program.cs",
               "RelativeDocumentMoniker": "LabWork14\\Program.cs",
@@ -106,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork14\\LabWork14\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "LabWork14\\Controllers\\MoviesController.cs",
@@ -114,8 +113,7 @@
               "RelativeToolTip": "LabWork14\\Controllers\\MoviesController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwC8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T05:44:05.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T05:44:05.871Z"
             },
             {
               "$type": "Document",
@@ -127,8 +125,7 @@
               "RelativeToolTip": "LabWork14\\Controllers\\VisitorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T05:45:11.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T05:45:11.422Z"
             },
             {
               "$type": "Document",
@@ -140,8 +137,7 @@
               "RelativeToolTip": "LabWork14\\Controllers\\TicketsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T05:45:42.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T05:45:42.045Z"
             },
             {
               "$type": "Document",
@@ -153,8 +149,7 @@
               "RelativeToolTip": "LabWork14\\Controllers\\GenresController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T05:44:36.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T05:44:36.655Z"
             },
             {
               "$type": "Document",
@@ -166,8 +161,7 @@
               "RelativeToolTip": "DataBaseLibrary\\Contexts\\CinemaDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T05:43:15.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T05:43:15.991Z"
             }
           ]
         }

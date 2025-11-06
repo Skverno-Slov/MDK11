@@ -15,9 +15,9 @@ try
 {
     Console.WriteLine("Task 1 \n Movies");
     var movies = await movieService.GetMoviesAsync();
-    Console.WriteLine("Name");
+    Console.WriteLine("Name, id");
     foreach (var item in movies)
-        Console.WriteLine(item.Name, item.MovieId);
+        Console.WriteLine($"{item.Name}, {item.MovieId}");
 
     Console.WriteLine($" Movie id = {MovieId}");
     var movie = await movieService.GetMovieAsync(MovieId);
@@ -32,11 +32,20 @@ try
     var createdMovie = await movieService.PostMovieAsync(newMovie);
     Console.WriteLine(createdMovie.Name, createdMovie.MovieId);
 
-    Console.WriteLine("Изменённый фильм");
     movie.Name = "Человек паук, нет пути домой";
     movie.Duration = 80;
     movie.Year = 2021;
     await movieService.PutMovieAsync(movie);
+
+    Console.WriteLine("Введите id для изменения");
+    Int32.TryParse(Console.ReadLine(), out int movieId);
+    await movieService.DeleteMovieAsync(movieId);
+
+    Console.WriteLine("Изменения: ");
+    movies = await movieService.GetMoviesAsync();
+
+    foreach (var item in movies)
+        Console.WriteLine($"{item.Name}, {item.MovieId}");
 }
 catch(Exception ex)
 {

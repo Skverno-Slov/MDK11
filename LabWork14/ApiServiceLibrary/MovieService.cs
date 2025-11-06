@@ -35,7 +35,7 @@ namespace ApiServiceLibrary
             response.EnsureSuccessStatusCode();
         }
 
-        public async Task DeleteMovie(int id)
+        public async Task DeleteMovieAsync(int id)
         {
             using var response = await _client.DeleteAsync($"Movies/{id}");
             response.EnsureSuccessStatusCode();
