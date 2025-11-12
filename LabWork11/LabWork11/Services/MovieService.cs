@@ -9,15 +9,15 @@ namespace LabWork11.Services
     {
         private readonly AppDbContext _context = context;
 
-        public ObservableCollection<Movie> GetMovies()
+        public IEnumerable<Movie> GetMovies()
             => _context.Movies.ToList();
 
-        public ObservableCollection<string>? GetAgeRaitings()
+        public IEnumerable<string>? GetAgeRaitings()
             => _context.Movies.Select(x => x.AgeRating)
                 .Distinct()
                 .ToList();
 
-        public async Task<ObservableCollection<Movie>> GetMoviesAsync()
+        public async Task<IEnumerable<Movie>> GetMoviesAsync()
             => await _context.Movies.ToListAsync();
 
         public async Task AddMovieAsync(Movie movie)
@@ -26,7 +26,7 @@ namespace LabWork11.Services
             await _context.SaveChangesAsync();
         }
 
-        public async Task RemoveMoviesAsync(ObservableCollection<Movie> movies)
+        public async Task RemoveMoviesAsync(IEnumerable<Movie> movies)
         {
             foreach (Movie movie in movies)
                 _context.Movies.Remove(movie);

@@ -6,30 +6,40 @@ using LabWork9.Models;
 var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
 using var context = new AppDbContext(optionsBuilder.Options);
 
+const int id = 8;
+
 var ticketService = new TicketService(context);
 var tickets = await ticketService.GetTicketsAsync();
 
 var visitorService = new VisitorService(context);
 var visitors = await visitorService.GetVisitorAsync();
 
-await visitorService.AddVisitorAsync(new Visitor()
+
+var visitor = new Visitor()
 {
     Name = "John Doe",
-    Phone = "89006004321",
+    Phone = "79006004333",
     Birthday = DateTime.Now,
-    Email = "johndoe@mail.com"
-});
+};
+await visitorService.AddVisitorAsync(visitor);
+
+visitor.Name = "fgdfhgffd435";
+await visitorService.UpdateVisitorsAsync(visitor);
 
 await ticketService.AddTicketAsync(new Ticket()
 {
     VisitorId = 4,
     SessionId = 1,
-    Row = 4,
-    Seat = 5
+    Row = 6,
+    Seat = 3
 });
 
-await visitorService.UpdateVisitorsAsync(9);
-await ticketService.UpdateTicketAsync(9);
+await ticketService.UpdateTicketAsync(new Ticket()
+{
+    TicketId = 1,
+    Row = 3,
+    Seat = 3
+});
 
-await visitorService.DeleteVisitorAsync(9);
-await ticketService.DeleteTicketAsync(9);
+await visitorService.DeleteVisitorAsync(id);
+await ticketService.DeleteTicketAsync(id);

@@ -57,7 +57,7 @@ namespace LabWork11.ViewModel
                             if (MessageBox.Show($"Вы уверены, что хотите удалить {movies.Count} записей", "Удаление", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
                             {
                                 await service.RemoveMoviesAsync(movies);
-                                Movies = ViewMovie();
+                                Movies = ShowMovie();
                                 MessageBox.Show("Данные успешно удалены", "Информация", MessageBoxButton.OK, MessageBoxImage.Information);
                             };
                         }
@@ -65,8 +65,7 @@ namespace LabWork11.ViewModel
                         {
                             MessageBox.Show($"Не удалось удалить записи.\nПричина:{ex.Message}", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                         }
-                    },
-                    (obj) => Movies.Count > 0));
+                    }));
             }
         }
 
@@ -88,18 +87,18 @@ namespace LabWork11.ViewModel
 
         public MoviePageViewModel()
         {
-            Movies = ViewMovie();
+            Movies = ShowMovie();
             SelectedMovies = new();
         }
 
-        public ObservableCollection<Movie> ViewMovie()
+        public ObservableCollection<Movie> ShowMovie()
         {
             try
             {
                 using var context = new AppDbContext();
                 var service = new MovieService(context);
 
-                return service.GetMovies();
+                return (ObservableCollection<Movie>)service.GetMovies();
             }
             catch (Exception ex)
             {
@@ -115,7 +114,7 @@ namespace LabWork11.ViewModel
                 using var context = new AppDbContext();
                 var service = new MovieService(context);
 
-                return await service.GetMoviesAsync();
+                return (ObservableCollection<Movie>)await service.GetMoviesAsync();
             }
             catch (Exception ex)
             {

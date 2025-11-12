@@ -145,10 +145,10 @@ namespace LabWork11.ViewModels
                 var service = new MovieService(context);
 
                 var ageRatings = service.GetAgeRaitings();
-                ageRatings.Add("3+");
-                ageRatings.Add("7+");
+                ageRatings.Append("3+");
+                ageRatings.Append("7+");
 
-                AgeRatings = ageRatings;
+                AgeRatings = (ObservableCollection<string>)ageRatings;
             }
             catch (Exception ex)
             {

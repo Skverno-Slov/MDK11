@@ -14,7 +14,7 @@ namespace LabWork9.Contexts
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=mssql;User ID=ispp3114;Password=3114;Trust Server Certificate=True");
+            optionsBuilder.UseSqlServer("Data Source=mssql;Initial Catalog=ispp3114;Persist Security Info=True;User ID=ispp3114;Password=3114;Encrypt=True;Trust Server Certificate=True");
         }
     }
 }

@@ -16,12 +16,13 @@ namespace LabWork9.Services
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateVisitorsAsync(int id)
+        public async Task UpdateVisitorsAsync(Visitor visitor)
         {
-            var visitor = await _context.Visitors.FindAsync(id);
-            if (visitor is null)
-                throw new ArgumentException("Visitor is not found");
-            visitor.Name = "John Doe";
+            var isVisitorExists = await _context.Visitors
+                .AnyAsync(v => v.VisitorId == visitor.VisitorId);
+            if (!isVisitorExists)
+                throw new ArgumentException();
+            _context.Visitors.Update(visitor);
             await _context.SaveChangesAsync();
         }
 

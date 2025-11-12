@@ -7,6 +7,7 @@ namespace LabWork9.Services
     public class TicketService(AppDbContext context)
     {
         private readonly AppDbContext _context = context;
+
         public async Task<List<Ticket>> GetTicketsAsync()
             => await _context.Tickets.ToListAsync();
 
@@ -16,13 +17,13 @@ namespace LabWork9.Services
             await _context.SaveChangesAsync();
         }
 
-        public async Task UpdateTicketAsync(int id)
+        public async Task UpdateTicketAsync(Ticket ticket)
         {
-            var ticket = await _context.Tickets.FindAsync(id);
-            if (ticket is null)
+            var isTicketExists = await _context.Tickets
+                .AnyAsync(t => t.TicketId == ticket.TicketId);
+            if (!isTicketExists)
                 throw new ArgumentException("Ticket is not found");
-            ticket.Row = 1;
-            ticket.Seat = 40;
+            _context.Tickets.Update(ticket);
             await _context.SaveChangesAsync();
         }
 

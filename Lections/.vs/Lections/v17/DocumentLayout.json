@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\Lections\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{305C3E89-B8D1-403F-9912-6B4A422D7767}|Lection1012\\Lection1012.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305C3E89-B8D1-403F-9912-6B4A422D7767}|Lection1012\\Lection1012.csproj|solutionrelative:lection1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|solutionrelative:lection1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|solutionrelative:lection0111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{A7321D29-C0B1-49AE-9CCC-1B2560436810}|Lection1020\\Lection1020.csproj|solutionrelative:lection1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|solutionrelative:lection0111\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\lection0111.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection0111.csproj|solutionrelative:lection0111\\lection0111.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,10 +94,6 @@
       "RelativeMoniker": "D:0:0:{A7321D29-C0B1-49AE-9CCC-1B2560436810}|Lection1020\\Lection1020.csproj|solutionrelative:lection1020\\contexts\\gamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|solutionrelative:lection1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1007\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|solutionrelative:lection1007\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -104,10 +108,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1007\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|solutionrelative:lection1007\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{305C3E89-B8D1-403F-9912-6B4A422D7767}|Lection1012\\Lection1012.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305C3E89-B8D1-403F-9912-6B4A422D7767}|Lection1012\\Lection1012.csproj|solutionrelative:lection1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B15B388-71A9-4750-9C7D-8CFBD99B92C1}|lection1007\\lection1007.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1007\\filters\\gamefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,21 +125,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Program.cs",
               "RelativeDocumentMoniker": "Lection1020\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Program.cs",
               "RelativeToolTip": "Lection1020\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAQAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwAcAAAAkAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T10:48:32.104Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -147,37 +146,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lection0111.csproj",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Lection0111.csproj",
-              "RelativeDocumentMoniker": "Lection0111\\Lection0111.csproj",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Lection0111.csproj",
-              "RelativeToolTip": "Lection0111\\Lection0111.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-01T10:03:44.581Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Lection0111\\Models\\Category.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Models\\Category.cs",
-              "RelativeToolTip": "Lection0111\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T09:57:15.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Program.cs",
               "RelativeDocumentMoniker": "Lection0111\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Program.cs",
               "RelativeToolTip": "Lection0111\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T09:55:03.786Z",
               "EditorCaption": ""
@@ -185,17 +160,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Lection1024",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
-              "RelativeDocumentMoniker": "Lection1024\\Lection1024.csproj",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
-              "RelativeToolTip": "Lection1024\\Lection1024.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-30T07:41:23.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Lection1024\\Controllers\\CategoriesController.cs",
@@ -207,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Lection1024\\Models\\Category.cs",
@@ -219,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Lection1024\\Models\\Game.cs",
@@ -231,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "Lection1024\\Controllers\\GamesController.cs",
@@ -240,30 +204,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T07:13:20.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Lection1024\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Lection1024\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T06:51:03.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Lection1024.http",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.http",
-              "RelativeDocumentMoniker": "Lection1024\\Lection1024.http",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.http",
-              "RelativeToolTip": "Lection1024\\Lection1024.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-24T06:50:23.478Z"
             },
             {
               "$type": "Document",
@@ -279,7 +219,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1012\\Program.cs",
+              "RelativeDocumentMoniker": "Lection1012\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1012\\Program.cs",
+              "RelativeToolTip": "Lection1012\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:09:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Program.cs",
+              "RelativeDocumentMoniker": "lection1007\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Program.cs",
+              "RelativeToolTip": "lection1007\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:53:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lection1024",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
+              "RelativeDocumentMoniker": "Lection1024\\Lection1024.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
+              "RelativeToolTip": "Lection1024\\Lection1024.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T07:41:23.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lection0111\\Models\\Category.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Models\\Category.cs",
+              "RelativeToolTip": "Lection0111\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:57:15.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lection0111.csproj",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Lection0111.csproj",
+              "RelativeDocumentMoniker": "Lection0111\\Lection0111.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Lection0111.csproj",
+              "RelativeToolTip": "Lection0111\\Lection0111.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T10:03:44.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lection1024\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lection1024\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T06:51:03.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lection1024.http",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.http",
+              "RelativeDocumentMoniker": "Lection1024\\Lection1024.http",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.http",
+              "RelativeToolTip": "Lection1024\\Lection1024.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-24T06:50:23.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "lection1024--v1.json",
               "DocumentMoniker": "C:\\Users\\0109-14\\Downloads\\lection1024--v1.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\0109-14\\Downloads\\lection1024--v1.json",
@@ -291,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\DTOs\\GameDto.cs",
               "RelativeDocumentMoniker": "Lection1024\\DTOs\\GameDto.cs",
@@ -303,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Lection1024\\WeatherForecast.cs",
@@ -315,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Lection1024\\Controllers\\WeatherForecastController.cs",
@@ -327,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Lection1024.csproj",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Lection1024.csproj",
               "RelativeDocumentMoniker": "Lection1024\\Lection1024.csproj",
@@ -351,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Lection1020\\Models\\Game.cs",
@@ -363,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Lection1020\\Models\\Category.cs",
@@ -375,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "GamesDbContext.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Contexts\\GamesDbContext.cs",
               "RelativeDocumentMoniker": "Lection1020\\Contexts\\GamesDbContext.cs",
@@ -387,19 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Program.cs",
-              "RelativeDocumentMoniker": "lection1007\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Program.cs",
-              "RelativeToolTip": "lection1007\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:53:45.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\DTOs\\GameDto.cs",
               "RelativeDocumentMoniker": "lection1007\\DTOs\\GameDto.cs",
@@ -423,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Models\\Category.cs",
               "RelativeDocumentMoniker": "lection1007\\Models\\Category.cs",
@@ -435,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\lection1007\\Models\\Game.cs",
               "RelativeDocumentMoniker": "lection1007\\Models\\Game.cs",
@@ -447,19 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1012\\Program.cs",
-              "RelativeDocumentMoniker": "Lection1012\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1012\\Program.cs",
-              "RelativeToolTip": "Lection1012\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T06:09:57.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1017\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Lection1017\\Models\\Student.cs",
@@ -471,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1017\\Program.cs",
               "RelativeDocumentMoniker": "Lection1017\\Program.cs",
