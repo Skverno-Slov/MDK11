@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10869e1b5ca13eaaab81ea5b60e8259caf38f343")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

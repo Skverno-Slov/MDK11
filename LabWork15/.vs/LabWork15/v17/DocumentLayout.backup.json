@@ -1,38 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\LabWork15\\",
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\authlib\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\models\\cinemauserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\authlib\\models\\cinemauserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemauserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\authlib\\models\\cinemauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\authlib\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\authlib\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\labwork15wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\labwork15wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\labwork15wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp31\\labworks\\labwork15\\labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,48 +55,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CinemaUser.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Models\\CinemaUser.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaUser.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Models\\CinemaUser.cs",
+              "RelativeToolTip": "AuthLib\\Models\\CinemaUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:01:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15Wpf\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "LabWork15Wpf\\AssemblyInfo.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15Wpf\\AssemblyInfo.cs",
               "RelativeToolTip": "LabWork15Wpf\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T11:09:12.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T11:09:12.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15Wpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LabWork15Wpf\\MainWindow.xaml",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15Wpf\\MainWindow.xaml",
               "RelativeToolTip": "LabWork15Wpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T10:45:54.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T10:45:54.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15Wpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork15Wpf\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15Wpf\\MainWindow.xaml.cs",
               "RelativeToolTip": "LabWork15Wpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswC8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T10:45:53.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CinemaUserRole.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaUserRole.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Models\\CinemaUserRole.cs",
               "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaUserRole.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaUserRole.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Models\\CinemaUserRole.cs",
               "RelativeToolTip": "AuthLib\\Models\\CinemaUserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,51 +116,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15\\Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15\\Program.cs",
               "RelativeDocumentMoniker": "LabWork15\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\LabWork15\\Program.cs",
               "RelativeToolTip": "LabWork15\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:10:47.203Z",
+              "WhenOpened": "2025-11-12T10:10:47.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CinemaPrivilege.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Models\\CinemaPrivilege.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaPrivilege.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Models\\CinemaPrivilege.cs",
+              "RelativeToolTip": "AuthLib\\Models\\CinemaPrivilege.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:43:03.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CinemaPrivilege.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaPrivilege.cs",
-              "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaPrivilege.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaPrivilege.cs",
-              "RelativeToolTip": "AuthLib\\Models\\CinemaPrivilege.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T11:43:03.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CinemaDbContext.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Contexts\\CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Contexts\\CinemaDbContext.cs",
               "RelativeDocumentMoniker": "AuthLib\\Contexts\\CinemaDbContext.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Contexts\\CinemaDbContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\Contexts\\CinemaDbContext.cs",
               "RelativeToolTip": "AuthLib\\Contexts\\CinemaDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T10:30:26.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\AuthService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\AuthService.cs",
               "RelativeDocumentMoniker": "AuthLib\\AuthService.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\AuthService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\LabWorks\\LabWork15\\AuthLib\\AuthService.cs",
               "RelativeToolTip": "AuthLib\\AuthService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAADgvzMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T10:17:58.016Z",
               "EditorCaption": ""
