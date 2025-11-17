@@ -1,0 +1,17 @@
+﻿<Window x:Class="LabWork15Wpf.Windows.AuthorizationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork15Wpf.Windows"
+        mc:Ignorable="d"
+        Title="Authorization" Height="450" Width="800" Closed="Window_Closed">
+    <StackPanel>
+        <TextBlock Text="Логин"/>
+        <TextBox x:Name="LoginTextBox"/>
+        <TextBlock Text="Пароль"/>
+        <PasswordBox x:Name="PasswordBox"/>
+        <Button x:Name="AuthorizationButton" Content="Войти" Click="AuthorizationButton_Click"/>
+        <Button x:Name="ToRegistrationButton" Content="Нет аккаунта? Зарегистрируйтесь" Click="ToRegistrationButton_Click"/>
+    </StackPanel>
+</Window>

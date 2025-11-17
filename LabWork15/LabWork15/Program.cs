@@ -1,30 +1,44 @@
-﻿using AuthLib;
-using AuthLib.Contexts;
-using AuthLib.Models;
+﻿//using UsersLibrary.UsersTPH.Contexts;
+//using UsersLibrary.UsersTPH.Models;
 
-using var context = new CinemaDbContext();
-var authService = new AuthService(context);
+//using var contextTph = new UsersTPHContext();
+//var visitor = new Visitor
+//{
+//    Login = "visitor",
+//    Password = "password123",
+//    Phone = "+72345678929",
+//    CardBalance = 1000.00m,
+//    IsBlocked = false
+//};
+//contextTph.Users.Add(visitor);
+//contextTph.SaveChanges();
 
-string login = "FirstUser";
-string password = "qwerty";
+//using UsersLibrary.UsersTPT.Contexts;
+//using UsersLibrary.UsersTPT.Models;
 
-authService.Login = login;
-authService.Password = password;
+//using var contextTpt = new UsersTPTContext();
+//var seller = new TicketSeller
+//{
+//    Login = "seller",
+//    Password = "qwerty",
+//    FullName = "Иван Иванов Иванович",
+//    Salary = 50000.00m
+//};
+//contextTpt.Users.Add(seller);
+//contextTpt.SaveChanges();
 
-authService.RegistrateUser();
-authService.AuthorizationUser();
+//using UsersLibrary.UsersTPC.Contexts;
+//using UsersLibrary.UsersTPC.Models;
 
-Console.WriteLine(authService.GetUserRole());
-var privileges = authService.GetUserPrivileges();
-foreach (var privilege in privileges)
-    Console.WriteLine(privilege);
-
-var role = context.CinemaUserRoles
-                .FirstOrDefault(r => r.Name == "посетитель");
-
-privileges = await authService.GetRolePrivilege(role);
-
-foreach (var privilege in privileges)
-    Console.WriteLine(privilege);
-
+//using var contextTpc = new UsersTPCContext();
+//var admin = new Administrator
+//{
+//    Login = "admin",
+//    Password = "password",
+//    Email = "email@mail.com",
+//    Phone = "+71234567890",
+//    Salary = 100000.00m
+//};
+//contextTpc.Users.Add(admin);
+//contextTpc.SaveChanges();
 

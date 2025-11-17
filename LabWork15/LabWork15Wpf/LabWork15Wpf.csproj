@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AuthLib\AuthLib.csproj" />
     <ProjectReference Include="..\LabWork15\LabWork15.csproj" />
   </ItemGroup>
 

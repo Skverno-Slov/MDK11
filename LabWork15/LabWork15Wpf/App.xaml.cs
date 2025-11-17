@@ -4,6 +4,7 @@ using System.Windows;
 
 namespace LabWork15Wpf
 {
+
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
