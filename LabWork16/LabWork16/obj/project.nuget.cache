@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5kFDLoY0RvA=",
+  "dgSpecHash": "AdzELINc5DA=",
   "success": true,
-  "projectFilePath": "C:\\temp\\ispp31\\LabWorks\\LabWork16\\LabWork16\\LabWork16.csproj",
+  "projectFilePath": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\LabWork16.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0109-14\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\0109-14\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

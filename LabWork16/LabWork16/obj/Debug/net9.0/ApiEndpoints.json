@@ -21,28 +21,6 @@
   },
   {
     "ContainingType": "LabWork16.Controllers.ValuesController",
-    "Method": "Post",
-    "RelativePath": "api/Values",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "value",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "LabWork16.Controllers.ValuesController",
     "Method": "Get",
     "RelativePath": "api/Values/{id}",
     "HttpMethod": "GET",
@@ -105,6 +83,28 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabWork16.Controllers.ValuesController",
+    "Method": "Post",
+    "RelativePath": "auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
