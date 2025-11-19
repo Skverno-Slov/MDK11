@@ -85,7 +85,7 @@ namespace LabWork15Wpf.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LabWork15Wpf;V1.0.0.0;component/windows/authorizationwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LabWork15Wpf;component/windows/authorizationwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\AuthorizationWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

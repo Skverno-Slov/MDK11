@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\usersroleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\usersroleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\usersroleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\usersroleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\authlib\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\userslibrary\\userstpt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +87,8 @@
       "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstph\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\usersroleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\usersroleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\usersroleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\usersroleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\authlib\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork15\\labwork15wpf\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -153,11 +153,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 32,
+          "SelectedChildIndex": 30,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UserTphContext.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPH\\Contexts\\UserTphContext.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Contexts\\UserTphContext.cs",
@@ -169,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UsersTptContext.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPT\\Contexts\\UsersTptContext.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Contexts\\UsersTptContext.cs",
@@ -181,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "UsersTpcContext.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPC\\Contexts\\UsersTpcContext.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Contexts\\UsersTpcContext.cs",
@@ -193,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\Administrator.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\Administrator.cs",
@@ -205,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "TicketSeller.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\TicketSeller.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\TicketSeller.cs",
@@ -217,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Visitor.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\Visitor.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\Visitor.cs",
@@ -229,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\User.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\User.cs",
@@ -241,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\Administrator.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\Administrator.cs",
@@ -253,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TicketSeller.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\TicketSeller.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\TicketSeller.cs",
@@ -265,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Visitor.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\Visitor.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\Visitor.cs",
@@ -277,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\User.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\User.cs",
@@ -289,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\Administrator.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\Administrator.cs",
@@ -301,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "TicketSeller.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\TicketSeller.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\TicketSeller.cs",
@@ -313,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Visitor.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\Visitor.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\Visitor.cs",
@@ -325,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\User.cs",
               "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\User.cs",
@@ -349,26 +349,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "UsersRolesWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
               "RelativeToolTip": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T16:18:39.534Z"
+              "WhenOpened": "2025-11-17T16:18:39.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "UsersRolesWindow.xaml",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
               "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
               "RelativeToolTip": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-17T16:08:58.434Z"
+              "WhenOpened": "2025-11-17T16:08:58.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -397,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "AuthorizationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\AuthorizationWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\AuthorizationWindow.xaml.cs",
@@ -416,12 +418,11 @@
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\AuthorizationWindow.xaml",
               "RelativeToolTip": "LabWork15Wpf\\Windows\\AuthorizationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-17T11:35:07.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T11:35:07.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "RegistrationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\RegistrationWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\RegistrationWindow.xaml.cs",
@@ -452,7 +453,8 @@
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\App.xaml",
               "RelativeToolTip": "LabWork15Wpf\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-17T11:28:39.679Z"
+              "WhenOpened": "2025-11-17T11:28:39.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -514,15 +516,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
               "RelativeToolTip": "LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAwwB8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwCkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:45:53.932Z"
+              "WhenOpened": "2025-11-12T10:45:53.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -538,13 +541,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15\\Program.cs",
               "RelativeDocumentMoniker": "LabWork15\\Program.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\LabWork15\\Program.cs",
               "RelativeToolTip": "LabWork15\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T10:10:47.203Z",
               "EditorCaption": ""
@@ -575,15 +578,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\AuthLib\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "AuthLib\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork15\\AuthLib\\Services\\AuthService.cs",
               "RelativeToolTip": "AuthLib\\Services\\AuthService.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAYwKcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwIIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:17:58.016Z"
+              "WhenOpened": "2025-11-11T10:17:58.016Z",
+              "EditorCaption": ""
             }
           ]
         }

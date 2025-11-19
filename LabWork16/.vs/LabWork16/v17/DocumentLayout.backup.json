@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork16\\labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork16\\labwork16\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork16\\labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork16\\labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork16\\labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,20 +54,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CinemaController.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "LabWork16\\Controllers\\CinemaController.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Controllers\\CinemaController.cs*",
-              "RelativeToolTip": "LabWork16\\Controllers\\CinemaController.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAADwvzAAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "LabWork16\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvzAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T17:43:15.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T17:43:15.798Z"
             },
             {
               "$type": "Document",
@@ -79,18 +78,17 @@
               "RelativeToolTip": "LabWork16\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:21:09.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:21:09.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "LabWork16\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs*",
-              "RelativeToolTip": "LabWork16\\Controllers\\ValuesController.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wFIAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "LabWork16\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T08:21:07.293Z",
               "EditorCaption": ""
@@ -105,8 +103,7 @@
               "RelativeToolTip": "LabWork16\\Models\\TokenResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:29:46.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:29:46.944Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "LabWork16\\Models\\CinemaUserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:23:28.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:23:28.431Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "LabWork16\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T08:20:34.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:20:34.276Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "LabWork16\\Models\\CinemaPrivilege.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:23:30.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:23:30.484Z"
             },
             {
               "$type": "Document",
@@ -157,12 +151,11 @@
               "RelativeToolTip": "LabWork16\\Contexts\\CinemaDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAD3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:23:33.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:23:33.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "LabWork16\\Services\\AuthService.cs",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "LabWork16\\Services\\AuthService.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAuwBcAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:27:41.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:27:41.128Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "LabWork16\\Models\\CinemaUser.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBQwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:23:29.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:23:29.259Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "LabWork16\\Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:26:44.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:26:44.804Z"
             }
           ]
         }
