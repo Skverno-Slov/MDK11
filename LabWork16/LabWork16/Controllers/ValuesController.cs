@@ -1,12 +1,20 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AuthLib.Contexts;
+using AuthLib.Models;
+using LabWork16.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Org.BouncyCastle.Crypto.Generators;
+using LabWork16.Service;
 
 namespace LabWork16.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class ValuesController(CinemaDbContext context) : ControllerBase
     {
+        private readonly CinemaDbContext _context = context;
+        private readonly AuthServices _authServices = new();
+
         // GET: api/<ValuesController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -21,24 +29,58 @@ namespace LabWork16.Controllers
             return "value";
         }
 
-        // POST api/<ValuesController>
-        [Authorize(Roles = "Посетитель")]
-        [HttpPost("/auth/register")]
-        public void Post([FromBody] string value)
+        [HttpPost("auth/register")]
+        public async Task<IActionResult> Register([FromBody] LoginRequest request)
         {
+            var password = request.Password;
+            var login = request.Login;
 
+            if (string.IsNullOrWhiteSpace(login))
+                return BadRequest("Логинне может быть пустыми");
+
+            if (string.IsNullOrWhiteSpace(password))
+                return BadRequest("Пароль не может быть пустыми");
+
+            if (_authServices.IsUserExists(login, _context))
+                return BadRequest("Пользователь с таким логином уже существует");
+
+            var passwordHash = _authServices.HashPassword(password);
+
+            var user = new CinemaUser
+            {
+                Login = login,
+                HashPassword = passwordHash,
+                RoleId = _context.CinemaUserRoles
+                .FirstOrDefault(r => r.Name == "Посетитель").RoleId
+            };
+
+            await _context.CinemaUsers.AddAsync(user);
+            await _context.SaveChangesAsync();
+
+            return Ok();
         }
 
-        // PUT api/<ValuesController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
 
-        // DELETE api/<ValuesController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        [HttpPost("auth/login")]
+        public async Task<IActionResult> Login([FromBody] LoginRequest request)
         {
+            const string InvalidUserMessage = "Неверный логин или пароль";
+
+            var login = request.Login;
+            var password = request.Password;
+
+            if (!_authServices.IsUserExists(login, _context))
+                BadRequest(InvalidUserMessage);
+
+            var user = _context.CinemaUsers
+                .FirstOrDefault(u => u.Login == login);
+
+            if (!_authServices.VerifyPassword(password, user.HashPassword))
+                return Unauthorized(InvalidUserMessage);
+
+            var token = _authServices.GenerateToken(user, _context);
+
+            return Ok(new TokenResponse { Token = token });
         }
     }
 }

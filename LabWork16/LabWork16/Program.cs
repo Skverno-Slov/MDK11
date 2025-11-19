@@ -1,3 +1,4 @@
+using AuthLib.Contexts;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Scalar.AspNetCore;
@@ -5,11 +6,12 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<CinemaDbContext>();
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 
 string _secretKey = "12345678123456781234567812345678";
-string _issuer = "myapp";
+string _issuer = "LabWork16";
 string _audience = "myapp-users";
 
 builder.Services.AddAuthorization();

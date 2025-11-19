@@ -1,5 +1,77 @@
 [
   {
+    "ContainingType": "LabWork16.Controllers.CinemaController",
+    "Method": "GetUserByIdAsync",
+    "RelativePath": "api/Cinema/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AuthLib.Models.CinemaUser",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabWork16.Controllers.CinemaController",
+    "Method": "GetCurrentUserAsync",
+    "RelativePath": "api/Cinema/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AuthLib.Models.CinemaUser",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabWork16.Controllers.CinemaController",
+    "Method": "PostUserAsync",
+    "RelativePath": "api/Cinema/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "AuthLib.Models.CinemaUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AuthLib.Models.CinemaUser",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "LabWork16.Controllers.ValuesController",
     "Method": "Get",
     "RelativePath": "api/Values",
@@ -47,73 +119,34 @@
   },
   {
     "ContainingType": "LabWork16.Controllers.ValuesController",
-    "Method": "Put",
-    "RelativePath": "api/Values/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "value",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "LabWork16.Controllers.ValuesController",
-    "Method": "Delete",
-    "RelativePath": "api/Values/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "LabWork16.Controllers.ValuesController",
-    "Method": "Post",
-    "RelativePath": "auth/register",
+    "Method": "Login",
+    "RelativePath": "api/Values/auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "request",
+        "Type": "LabWork16.Models.LoginRequest",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LabWork16.Controllers.ValuesController",
+    "Method": "Register",
+    "RelativePath": "api/Values/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
+        "Name": "request",
+        "Type": "LabWork16.Models.LoginRequest",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
   }
 ]
