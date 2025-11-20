@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork15\LabWork15Wpf\obj\Debug\net9.0-windows\
+C:\temp\ispp31\Repo\LabWork15\LabWork15Wpf\obj\Debug\net9.0-windows\
 LabWork15Wpf
 none
 false
-TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork15\LabWork15Wpf\App.xaml
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\temp\ispp31\Repo\LabWork15\LabWork15Wpf\App.xaml
 4-1746430219
 
 8905035061
-238-585105871
+238-1563611873
 Windows\AuthorizationWindow.xaml;Windows\MainWindow.xaml;Windows\RegistrationWindow.xaml;Windows\UsersRolesWindow.xaml;
 
 False

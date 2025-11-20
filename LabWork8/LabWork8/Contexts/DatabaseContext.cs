@@ -1,11 +1,12 @@
 ﻿using Microsoft.Data.SqlClient;
 using System.Data;
 
-namespace LabWork8
+namespace LabWork8.Contexts
 {
     public class DatabaseContext
     {
         private readonly string _connectionString;
+
         public DatabaseContext(string server, string database, string login, string password)
         {
             SqlConnectionStringBuilder builder = new()

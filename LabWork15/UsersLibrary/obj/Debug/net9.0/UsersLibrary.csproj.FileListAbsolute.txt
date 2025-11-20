@@ -13,3 +13,17 @@ C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork15\UsersLibrary\
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.pdb
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.genruntimeconfig.cache
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork15\UsersLibrary\obj\Debug\net9.0\ref\UsersLibrary.dll
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\bin\Debug\net9.0\UsersLibrary.deps.json
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\bin\Debug\net9.0\UsersLibrary.runtimeconfig.json
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\bin\Debug\net9.0\UsersLibrary.dll
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\bin\Debug\net9.0\UsersLibrary.pdb
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.csproj.AssemblyReference.cache
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.AssemblyInfoInputs.cache
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.AssemblyInfo.cs
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.dll
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\refint\UsersLibrary.dll
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.pdb
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\UsersLibrary.genruntimeconfig.cache
+C:\temp\ispp31\Repo\LabWork15\UsersLibrary\obj\Debug\net9.0\ref\UsersLibrary.dll

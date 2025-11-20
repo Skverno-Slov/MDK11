@@ -1,4 +1,4 @@
-﻿using LabWork8;
+﻿using LabWork8.Contexts;
 using LabWork8.Repository;
 
 DatabaseContext database = new("mssql", "ispp3114", "ispp3114", "3114");
