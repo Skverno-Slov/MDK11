@@ -1,4 +1,4 @@
-using AuthLib.Contexts;
+using LabWork16.Contexts;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Scalar.AspNetCore;

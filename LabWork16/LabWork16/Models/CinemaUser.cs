@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AuthLib.Models;
+namespace LabWork16.Models;
 
 public partial class CinemaUser
 {

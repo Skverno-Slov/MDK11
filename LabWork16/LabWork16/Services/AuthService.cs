@@ -1,5 +1,5 @@
-﻿using AuthLib.Contexts;
-using AuthLib.Models;
+﻿using LabWork16.Contexts;
+using LabWork16.Models;
 using Microsoft.IdentityModel.Tokens;
 using System.Data.Entity;
 using System.IdentityModel.Tokens.Jwt;

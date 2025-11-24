@@ -5,17 +5,17 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using AuthLib.Contexts;
-using AuthLib.Models;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using Humanizer.Localisation;
+using LabWork16.Models;
+using LabWork16.Contexts;
 
 namespace LabWork16.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CinemaController(CinemaDbContext context) : ControllerBase
+    public class CinemaUsersController(CinemaDbContext context) : ControllerBase
     {
         private readonly CinemaDbContext _context = context;
 
@@ -35,7 +35,17 @@ namespace LabWork16.Controllers
         [Authorize]
         public async Task<ActionResult<CinemaUser>> GetCurrentUserAsync()
         {
-            var user = await _context.CinemaUsers.FirstOrDefaultAsync(u => u.UserId.ToString() == ClaimTypes.NameIdentifier);
+            var userId = User
+                .FindFirstValue(ClaimTypes.NameIdentifier);
+
+            if (string.IsNullOrEmpty(userId))
+                return Unauthorized();
+
+            if (!int.TryParse(userId, out int userIdInt))
+                return BadRequest("Id не число");
+
+            var user = await _context.CinemaUsers
+                .FirstOrDefaultAsync(u => u.UserId == userIdInt);
 
             if (user is null)
                 return NotFound();
@@ -43,24 +53,7 @@ namespace LabWork16.Controllers
             return user;
         }
 
-        //[HttpGet("movies")]
-        //[AllowAnonymous]
-        //public async Task<List<Movie>> GetMoviesAsync()
-        //    => _context.Movies.ToListAsync();
-
-        //[HttpGet("tickets/{id}")]
-        //[Authorize(Roles = "Билетер,Посетитель")]
-        //public async Task<ActionResult<Ticket>> GetTicketById(int id)
-        //{
-        //    var ticket = await _context.Tickets.FirstOrDefaultAsync(t => t.TicketId == id);
-
-        //    if (ticket is null)
-        //        return NotFound();
-
-        //    return ticket;
-        //}
-
-        [HttpPost("users")]
+            [HttpPost("users")]
         [Authorize(Roles = "Администратор")]
         public async Task<ActionResult<CinemaUser>> PostUserAsync(CinemaUser user)
         {

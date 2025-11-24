@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0JbptCV9sQE=",
+  "dgSpecHash": "2sn6+pG3VXY=",
   "success": true,
   "projectFilePath": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork16\\LabWork16\\LabWork16.csproj",
   "expectedPackageFiles": [
@@ -88,7 +88,7 @@
     "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.11\\microsoft.entityframeworkcore.design.9.0.11.nupkg.sha512",
     "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.11\\microsoft.entityframeworkcore.relational.9.0.11.nupkg.sha512",
     "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.11\\microsoft.entityframeworkcore.sqlserver.9.0.11.nupkg.sha512",
-    "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0\\microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512",
+    "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.11\\microsoft.entityframeworkcore.tools.9.0.11.nupkg.sha512",
     "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.11\\microsoft.extensions.caching.abstractions.9.0.11.nupkg.sha512",
     "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.11\\microsoft.extensions.caching.memory.9.0.11.nupkg.sha512",
     "C:\\Users\\THUNDER\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.11\\microsoft.extensions.configuration.abstractions.9.0.11.nupkg.sha512",

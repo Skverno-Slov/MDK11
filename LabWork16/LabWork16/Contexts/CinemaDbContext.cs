@@ -1,7 +1,9 @@
-﻿using AuthLib.Models;
+﻿using System;
+using System.Collections.Generic;
+using LabWork16.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AuthLib.Contexts;
+namespace LabWork16.Contexts;
 
 public partial class CinemaDbContext : DbContext
 {
@@ -20,8 +22,11 @@ public partial class CinemaDbContext : DbContext
 
     public virtual DbSet<CinemaUserRole> CinemaUserRoles { get; set; }
 
+    public virtual DbSet<Movie> Movies { get; set; }
+
+    public virtual DbSet<Ticket> Tickets { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //=> optionsBuilder.UseSqlServer("Data Source=mssql;Initial Catalog=ispp3114;Persist Security Info=True;User ID=ispp3114;Password=3114;Encrypt=True;Trust Server Certificate=True");
         => optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ispp3114;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -33,23 +38,6 @@ public partial class CinemaDbContext : DbContext
             entity.ToTable("CinemaPrivilege");
 
             entity.Property(e => e.Name).HasMaxLength(100);
-
-            entity.HasMany(d => d.Roles).WithMany(p => p.Privileges)
-                .UsingEntity<Dictionary<string, object>>(
-                    "CinemaRolePrivilege",
-                    r => r.HasOne<CinemaUserRole>().WithMany()
-                        .HasForeignKey("RoleId")
-                        .OnDelete(DeleteBehavior.ClientSetNull)
-                        .HasConstraintName("FK_CinemaRolePrivilege_CinemaUserRole"),
-                    l => l.HasOne<CinemaPrivilege>().WithMany()
-                        .HasForeignKey("PrivilegeId")
-                        .OnDelete(DeleteBehavior.ClientSetNull)
-                        .HasConstraintName("FK_CinemaRolePrivilege_CinemaPrivilege"),
-                    j =>
-                    {
-                        j.HasKey("PrivilegeId", "RoleId");
-                        j.ToTable("CinemaRolePrivilege");
-                    });
         });
 
         modelBuilder.Entity<CinemaUser>(entity =>
@@ -74,6 +62,24 @@ public partial class CinemaDbContext : DbContext
             entity.ToTable("CinemaUserRole");
 
             entity.Property(e => e.Name).HasMaxLength(20);
+        });
+
+        modelBuilder.Entity<Movie>(entity =>
+        {
+            entity.ToTable("Movie");
+
+            entity.Property(e => e.AgeRating)
+                .HasMaxLength(10)
+                .IsUnicode(false);
+            entity.Property(e => e.Description).HasMaxLength(500);
+            entity.Property(e => e.Duration).HasDefaultValue((short)90);
+            entity.Property(e => e.Name).HasMaxLength(100);
+            entity.Property(e => e.Year).HasDefaultValueSql("(datepart(year,getdate()))");
+        });
+
+        modelBuilder.Entity<Ticket>(entity =>
+        {
+            entity.ToTable("Ticket");
         });
 
         OnModelCreatingPartial(modelBuilder);

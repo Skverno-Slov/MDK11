@@ -1,10 +1,9 @@
-﻿using AuthLib.Contexts;
-using AuthLib.Models;
-using LabWork16.Models;
+﻿using LabWork16.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Org.BouncyCastle.Crypto.Generators;
 using LabWork16.Service;
+using LabWork16.Contexts;
 
 namespace LabWork16.Controllers
 {
