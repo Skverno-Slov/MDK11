@@ -1,20 +1,12 @@
 ﻿using LabWork24.Contexts;
 using LabWork24.DTOs;
+using LabWork24.Managers;
 using LabWork24.Models;
 using LabWork24.Services;
+using Microsoft.Win32;
 using System.IO;
-using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace LabWork24
 {
@@ -25,6 +17,7 @@ namespace LabWork24
     {
         CinemaService _service;
         CinemaDbContext _context;
+        TicketDto _ticket;
 
         public MainWindow()
         {
@@ -37,66 +30,154 @@ namespace LabWork24
 
         private void SetDataSource()
         {
-            TicketDataGrid.ItemsSource = _service.GetTickets();
+            try
+            {
+                TicketDataGrid.ItemsSource = _service.GetTickets();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void OpenConnection()
         {
-            var context = new CinemaDbContext();
-            _context = context;
-            var service = new CinemaService(context);
-            _service = service;
+            try
+            {
+                var context = new CinemaDbContext();
+                _context = context;
+                var service = new CinemaService(context);
+                _service = service;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
-        private void SaveTxt()
+        private void SaveTxt(string filePath)
         {
-            StreamWriter writer = new("ticket.txt");
+            StreamWriter writer = new(filePath);
 
-            writer.WriteLine(TicketIdTextBlock.Text);
-            writer.WriteLine(NameTextBlock.Text);
-            writer.WriteLine(StartDateTextBlock.Text);
-            writer.WriteLine(CinemaTextBlock.Text);
-            writer.WriteLine(HallNumberTextBlock.Text);
-            writer.WriteLine($"{RowTextBlock.Text} {SeatTextBlock.Text}");
+            writer.WriteLine($"Билет № {_ticket.TicketId}");
+            writer.WriteLine(_ticket.Name);
+            writer.WriteLine($"Начало сеанса: {_ticket.StartDate.ToString("hh:mm dd MMMM")}");
+            writer.WriteLine($"Кинотеатр: {_ticket.Cinema}");
+            writer.WriteLine($"Зал: {_ticket.HallNumber}");
+            writer.WriteLine($"Ряд: {_ticket.Row} Место: {_ticket.Seat}");
 
             writer.Close();
-
-            MessageBox.Show("Билет сохранён");
         }
 
-        private void ShowTicket(TicketDto ticket)
+        private void ShowTicket()
         {
-            TicketIdTextBlock.Text = $"Билет № {ticket.TicketId}";
-            NameTextBlock.Text = ticket.Name;
-            StartDateTextBlock.Text = $"Начало сеанса: {ticket.StartDate.ToString("hh:mm dd MMMM")}";
-            CinemaTextBlock.Text = $"Кинотеатр: {ticket.Cinema}";
-            HallNumberTextBlock.Text = $"Зал: {ticket.HallNumber}";
-            RowTextBlock.Text = $"Ряд: {ticket.Row} ";
-            SeatTextBlock.Text = $"Место: {ticket.Seat}";
+            TicketIdTextBlock.Text = $"Билет № {_ticket.TicketId}";
+            NameTextBlock.Text = _ticket.Name;
+            StartDateTextBlock.Text = $"Начало сеанса: {_ticket.StartDate.ToString("hh:mm dd MMMM")}";
+            CinemaTextBlock.Text = $"Кинотеатр: {_ticket.Cinema}";
+            HallNumberTextBlock.Text = $"Зал: {_ticket.HallNumber}";
+            RowTextBlock.Text = $"Ряд: {_ticket.Row} ";
+            SeatTextBlock.Text = $"Место: {_ticket.Seat}";
         }
 
         private TicketDto GetTicket()
         {
-            var selectedTicket = TicketDataGrid.SelectedItem as Ticket;
-            return _service.GetTicketById(selectedTicket.TicketId);
+            try
+            {
+                var selectedTicket = TicketDataGrid.SelectedItem as Ticket;
+                return _service.GetTicketById(selectedTicket.TicketId);
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return null;
+            }
         }
 
         private void TicketsDataGrid_SelectedCellsChanged(object sender, SelectedCellsChangedEventArgs e)
         {
-            var ticket = GetTicket();
-
-            if (ticket is null)
+            try
             {
-                MessageBox.Show("Билет не найден");
-                return;
-            }
+                var ticket = GetTicket();
 
-            ShowTicket(ticket);
+                if (ticket is null)
+                {
+                    MessageBox.Show("Билет не найден");
+                    return;
+                }
+
+                _ticket = ticket;
+                ShowTicket();
+            }
+            catch (Exception ex) 
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void SaveTxtButton_Click(object sender, RoutedEventArgs e)
         {
-            SaveTxt();
+            if (_ticket is null)
+            {
+                MessageBox.Show("Билет не выбран");
+                return;
+            }
+                
+            var dialog = new SaveFileDialog();
+
+            dialog.Filter = "Текстовые файлы (*.txt)|*.txt|Все файлы (*.*)|*.*";
+            if (dialog.ShowDialog() is true)
+            {
+                string filePath = dialog.FileName;
+
+                try
+                {
+                    SaveTxt(filePath);
+
+                    MessageBox.Show($"Файл успешно сохранён");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
+        private void SavePdfButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (_ticket is null)
+            {
+                MessageBox.Show("Билет не выбран");
+                return;
+            }
+
+            string templateName = Path.Combine($"{Environment.CurrentDirectory}\\Templates\\TicketTemplate.docx");
+
+            var manager = new TicketManager(templateName);
+
+            var dialog = new SaveFileDialog();
+            dialog.Filter = "PDF files (*.pdf)|*.pdf";
+
+            if (dialog.ShowDialog() is true)
+            {
+                string filePath = dialog.FileName;
+
+                try
+                {
+                    manager.SaveTicketPdf(_ticket, filePath);
+
+                    MessageBox.Show("Файл успешно сохранён");
+                }
+                catch(Exception ex) 
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            _context.Dispose();
         }
     }
 }

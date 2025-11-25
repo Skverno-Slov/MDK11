@@ -5,14 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LabWork24"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
     <DockPanel>
         <StackPanel DockPanel.Dock="Right" Width="250">
             <DataGrid x:Name="TicketDataGrid" SelectedCellsChanged="TicketsDataGrid_SelectedCellsChanged"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom">
             <Button x:Name="SaveTxtButton" Content="Сохранить txt" Click="SaveTxtButton_Click"/>
-            <Button x:Name="SavePdfButton" Content="Сохранит pdf"/>
+            <Button x:Name="SavePdfButton" Content="Сохранит pdf" Click="SavePdfButton_Click"/>
         </StackPanel>
         <StackPanel>
             <TextBlock x:Name="TicketIdTextBlock" Text="Выбирете билет"/>
