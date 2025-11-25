@@ -4,7 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace AuthLib.Services
 {
@@ -14,17 +13,19 @@ namespace AuthLib.Services
         string? _login;
         string? _password;
         CinemaUser? _user;
+        const int Attempt = 3;
+        const int Duration = 60;
 
-        public string Login 
+        public string? Login
         {
             get => _login;
             set => _login = value;
         }
 
-        public string Password 
+        public string? Password
         {
             get => _password;
-            set => _password = ComputeHash(value); 
+            set => _password = ComputeHash(value);
         }
 
         public bool RegistrateUser()
@@ -38,8 +39,8 @@ namespace AuthLib.Services
 
             _context.Add(new CinemaUser
             {
-                Login = _login,
-                HashPassword = _password,
+                Login = Login,
+                HashPassword = Password,
                 RoleId = role.RoleId
             });
 
@@ -51,7 +52,7 @@ namespace AuthLib.Services
         CinemaUser? Authentication()
         {
             return _context.CinemaUsers
-                .FirstOrDefault(u => u.Login == _login);
+                .FirstOrDefault(u => u.Login == Login);
         }
 
         public CinemaUser? AuthorizationUser()
@@ -78,7 +79,7 @@ namespace AuthLib.Services
 
         bool IsUserExists()
         {
-            if(_user is null) 
+            if (_user is null)
                 return false;
             return _context.CinemaUsers.Any(u => u.Login == _user.Login);
         }
@@ -108,13 +109,11 @@ namespace AuthLib.Services
 
         bool IsCorrectPassword()
         {
-            const int attempts = 3;
-            const int duration = 60;
-            if (_password != _user.HashPassword)
+            if (Password != _user.HashPassword)
             {
                 _user.FailedLoginAttempts++;
-                if (_user.FailedLoginAttempts >= attempts)
-                    _user.LockedUntil = DateTime.UtcNow.AddSeconds(duration);
+                if (_user.FailedLoginAttempts >= Attempt)
+                    _user.LockedUntil = DateTime.UtcNow.AddSeconds(Duration);
                 _context.SaveChanges();
                 return false;
             }
@@ -126,17 +125,17 @@ namespace AuthLib.Services
 
             var role = await _context.CinemaUserRoles
                 .Include(r => r.CinemaUsers)
-                .FirstOrDefaultAsync(r => r.CinemaUsers.Any(u => u.Login == _login));
+                .FirstOrDefaultAsync(r => r.CinemaUsers.Any(u => u.Login == Login));
 
             return role;
         }
 
-        public List<string> GetUserPrivileges() 
+        public List<string> GetUserPrivileges()
         {
             var user = _context.CinemaUsers
                 .Include(u => u.Role)
                 .ThenInclude(r => r.Privileges)
-                .FirstOrDefault(u => u.Login == _login);
+                .FirstOrDefault(u => u.Login == Login);
 
             if (user is null)
                 return new();
@@ -146,8 +145,8 @@ namespace AuthLib.Services
 
         public bool IsDataCorrect()
         {
-            return !_login.IsNullOrEmpty() 
-                && !_password.IsNullOrEmpty();
+            return !Login.IsNullOrEmpty()
+                && !Password.IsNullOrEmpty();
         }
 
         public async Task<List<string>> GetRolePrivilege(CinemaUserRole userRole)
@@ -170,7 +169,7 @@ namespace AuthLib.Services
 
         public void ChangeUserRoleAsync(CinemaUser user, CinemaUserRole role)
         {
-            if (! _context.CinemaUsers.Any(u => u.UserId == user.UserId))
+            if (!_context.CinemaUsers.Any(u => u.UserId == user.UserId))
                 return;
 
             user.RoleId = role.RoleId;
