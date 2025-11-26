@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\LabWork16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\controllers\\cinemauserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,31 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TicketsController.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\TicketsController.cs",
-              "RelativeDocumentMoniker": "LabWork16\\Controllers\\TicketsController.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\TicketsController.cs",
-              "RelativeToolTip": "LabWork16\\Controllers\\TicketsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:07:58.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "LabWork16\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "LabWork16\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:04:42.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "LabWork16\\Models\\Movie.cs",
@@ -110,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CinemaUsersController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\CinemaUsersController.cs",
               "RelativeDocumentMoniker": "LabWork16\\Controllers\\CinemaUsersController.cs",
@@ -118,12 +94,11 @@
               "RelativeToolTip": "LabWork16\\Controllers\\CinemaUsersController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T17:43:15.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T17:43:15.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Program.cs",
               "RelativeDocumentMoniker": "LabWork16\\Program.cs",
@@ -136,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "LabWork16\\Controllers\\ValuesController.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs",
               "RelativeToolTip": "LabWork16\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA1wCIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAMwE0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T08:21:07.293Z",
               "EditorCaption": ""
@@ -161,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CinemaUserRole.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Models\\CinemaUserRole.cs",
               "RelativeDocumentMoniker": "LabWork16\\Models\\CinemaUserRole.cs",
@@ -185,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CinemaPrivilege.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Models\\CinemaPrivilege.cs",
               "RelativeDocumentMoniker": "LabWork16\\Models\\CinemaPrivilege.cs",
@@ -197,31 +172,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CinemaDbContext.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Contexts\\CinemaDbContext.cs",
-              "RelativeDocumentMoniker": "LabWork16\\Contexts\\CinemaDbContext.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Contexts\\CinemaDbContext.cs",
-              "RelativeToolTip": "LabWork16\\Contexts\\CinemaDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:23:33.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "LabWork16\\Services\\AuthService.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Services\\AuthService.cs",
               "RelativeToolTip": "LabWork16\\Services\\AuthService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAewFMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:27:41.128Z"
+              "WhenOpened": "2025-11-17T08:27:41.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Contexts\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "LabWork16\\Contexts\\CinemaDbContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Contexts\\CinemaDbContext.cs",
+              "RelativeToolTip": "LabWork16\\Contexts\\CinemaDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:23:33.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "LabWork16\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "LabWork16\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:04:42.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "LabWork16\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "LabWork16\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:07:58.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CinemaUser.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Models\\CinemaUser.cs",
               "RelativeDocumentMoniker": "LabWork16\\Models\\CinemaUser.cs",
@@ -233,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "LabWork16\\Models\\LoginRequest.cs",

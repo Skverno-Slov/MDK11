@@ -74,6 +74,9 @@ namespace LabWork16.Controllers
             var user = _context.CinemaUsers
                 .FirstOrDefault(u => u.Login == login);
 
+            if (user == null)
+                return BadRequest();
+
             if (!_authServices.VerifyPassword(password, user.HashPassword))
                 return Unauthorized(InvalidUserMessage);
 

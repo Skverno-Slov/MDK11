@@ -281,3 +281,5 @@ C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork24\LabWork24\obj
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork24\LabWork24\obj\Debug\net9.0-windows\ref\LabWork24.dll
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork24\LabWork24\obj\Debug\net9.0-windows\Interop.Microsoft.Office.Interop.Word.dll
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork24\LabWork24\obj\Debug\net9.0-windows\LabWork24.csproj.ResolveComReference.cache
+C:\temp\ispp31\Repo\LabWork24\LabWork24\obj\Debug\net9.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\temp\ispp31\Repo\LabWork24\LabWork24\obj\Debug\net9.0-windows\LabWork24.csproj.ResolveComReference.cache

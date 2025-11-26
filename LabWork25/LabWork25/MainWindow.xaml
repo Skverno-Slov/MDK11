@@ -1,0 +1,35 @@
+﻿<Window x:Class="LabWork25.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork25"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Right">
+            <DatePicker x:Name="MovieDatePicker" SelectedDateChanged="MovieDatePicker_SelectedDateChanged"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Bottom"
+                    Orientation="Horizontal">
+            <Button x:Name="SaveCsv" Content="Сохранить csv"/>
+        </StackPanel>
+        <DataGrid x:Name="SessionsDataGrid"
+                  HorizontalScrollBarVisibility="Auto"
+                  VerticalScrollBarVisibility="Auto"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" 
+                            Binding ="{Binding Name}"/>
+                <DataGridTextColumn Header="Время начала сеанса" 
+                            Binding="{Binding StartDate}"/>
+                <DataGridTextColumn Header="Зал" 
+                            Binding="{Binding HallNumber}"/>
+                <DataGridTextColumn Header="Цена" 
+                            Binding="{Binding Price}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>
