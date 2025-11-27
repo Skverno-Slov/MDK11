@@ -6,5 +6,6 @@
         public DateTime StartDate { get; set; }
         public byte HallNumber { get; set; }
         public decimal Price { get; set; }
+        public string Cinema { get; set; } = null!;
     }
 }

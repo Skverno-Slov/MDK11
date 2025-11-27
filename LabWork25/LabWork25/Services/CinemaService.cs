@@ -13,7 +13,7 @@ namespace LabWork25.Services
             var sessions = _context.Sessions
                 .Include(m => m.Movie)
                 .Include(h => h.Hall)
-                .Where(s => s.StartDate.Date == date.Date /*&& s.StartDate.Date < date.AddDays(1).Date*/)
+                .Where(s => s.StartDate.Date == date.Date)
                 .OrderBy(s => s.Movie.Name)
                 .ThenBy(s => s.StartDate)
                 .ToList();
@@ -30,6 +30,7 @@ namespace LabWork25.Services
                     StartDate = session.StartDate,
                     HallNumber = session.Hall.HallNumber,
                     Price = session.Price,
+                    Cinema = session.Hall.Cinema
                 });
             }
 

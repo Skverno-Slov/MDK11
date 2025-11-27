@@ -5,14 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LabWork25"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
+        Title="Расписание фильмов" Height="450" Width="800" Closed="Window_Closed">
     <DockPanel>
         <StackPanel DockPanel.Dock="Right">
+            <TextBlock Text="Показаны сеансы на"/>
             <DatePicker x:Name="MovieDatePicker" SelectedDateChanged="MovieDatePicker_SelectedDateChanged"/>
         </StackPanel>
         <StackPanel DockPanel.Dock="Bottom"
                     Orientation="Horizontal">
-            <Button x:Name="SaveCsv" Content="Сохранить csv"/>
+            <Button x:Name="SaveCsv" Content="Сохранить csv" Click="SaveCsv_Click"/>
+            <Button x:Name="SaveXlsx" Content="Сохранить xlsx" Click="SaveXlsx_Click"/>
         </StackPanel>
         <DataGrid x:Name="SessionsDataGrid"
                   HorizontalScrollBarVisibility="Auto"
