@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\managers\\ticketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork24\\labwork24\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork24\\labwork24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork24\\labwork24\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|c:\\users\\thunder\\onedrive\\desktop\\repositories\\mdk.11.01\\labwork24\\labwork24\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F2058AF-4988-4E93-905C-477A5DCED4F6}|LabWork24\\LabWork24.csproj|solutionrelative:labwork24\\services\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,10 +64,9 @@
               "RelativeDocumentMoniker": "LabWork24\\Managers\\TicketManager.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\Managers\\TicketManager.cs",
               "RelativeToolTip": "LabWork24\\Managers\\TicketManager.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T16:12:11.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T16:12:11.031Z"
             },
             {
               "$type": "Document",
@@ -143,20 +142,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CinemaService.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\Services\\CinemaService.cs",
               "RelativeDocumentMoniker": "LabWork24\\Services\\CinemaService.cs",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\Services\\CinemaService.cs",
               "RelativeToolTip": "LabWork24\\Services\\CinemaService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:11:16.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T10:11:16.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CinemaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\Contexts\\CinemaDbContext.cs",
               "RelativeDocumentMoniker": "LabWork24\\Contexts\\CinemaDbContext.cs",
@@ -164,20 +162,18 @@
               "RelativeToolTip": "LabWork24\\Contexts\\CinemaDbContext.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA7wCAAAAD3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:09:44.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T10:09:44.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LabWork24\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\MainWindow.xaml",
               "RelativeToolTip": "LabWork24\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-25T09:43:58.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T09:43:58.46Z"
             },
             {
               "$type": "Document",
@@ -185,9 +181,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork24\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "LabWork24\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAUwI8AAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\THUNDER\\OneDrive\\Desktop\\Repositories\\MDK.11.01\\LabWork24\\LabWork24\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork24\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T09:43:56.869Z",
               "EditorCaption": ""
