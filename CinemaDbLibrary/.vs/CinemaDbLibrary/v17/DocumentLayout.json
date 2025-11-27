@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\cinemadblibrary\\cinemadblibrary\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\cinemadblibrary\\cinemadblibrary\\cinemadblibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\cinemadblibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\cinemadblibrary\\cinemadblibrary\\context\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\context\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\cinemadblibrary\\cinemadblibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C39EFCB-BDCF-4162-8668-CCA2E6F28DFA}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\Models\\Visitor.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:40:58.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaDbLibrary",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\CinemaDbLibrary.csproj",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\CinemaDbLibrary.csproj",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\CinemaDbLibrary.csproj",
+              "RelativeToolTip": "CinemaDbLibrary\\CinemaDbLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-10T09:40:43.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinemaContext.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\Context\\CinemaContext.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Context\\CinemaContext.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\Context\\CinemaContext.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Context\\CinemaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:37:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Class1.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\CinemaDbLibrary\\CinemaDbLibrary\\Class1.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:35:07.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

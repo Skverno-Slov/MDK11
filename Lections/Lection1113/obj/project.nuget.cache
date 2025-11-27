@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "92Iaqw3g3c0=",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1113\\Lection1113.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.7.1\\microsoft.identitymodel.abstractions.7.7.1.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.7.1\\microsoft.identitymodel.jsonwebtokens.7.7.1.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.identitymodel.logging\\7.7.1\\microsoft.identitymodel.logging.7.7.1.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.7.1\\microsoft.identitymodel.tokens.7.7.1.nupkg.sha512",
+    "C:\\Users\\0109-14\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.7.1\\system.identitymodel.tokens.jwt.7.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

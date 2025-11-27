@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\LabWork15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\usersroleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\usersroleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\usersroleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\usersroleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpt\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpt\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpt\\models\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpt\\models\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpt\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpt\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpt\\contexts\\userstptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpt\\contexts\\userstptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstph\\contexts\\usertphcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstph\\contexts\\usertphcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpc\\contexts\\userstpccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpc\\contexts\\userstpccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\authorizationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpc\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpc\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpc\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpc\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstpc\\models\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstpc\\models\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstph\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstph\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstph\\models\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstph\\models\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstph\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstph\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|c:\\temp\\ispp31\\repo\\labwork15\\userslibrary\\userstph\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112DBC5E-5FF0-4E9C-9226-DB6627879374}|UsersLibrary\\UsersLibrary.csproj|solutionrelative:userslibrary\\userstph\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\models\\cinemauserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemauserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15\\labwork15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B7CD067-C946-48E2-9FD2-EDBFE8AC943A}|LabWork15\\LabWork15.csproj|solutionrelative:labwork15\\labwork15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\windows\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\windows\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\models\\cinemauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|c:\\temp\\ispp31\\repo\\labwork15\\authlib\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627FC775-2C76-4BA6-BFE1-2C18D5D5B2AD}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\models\\cinemaprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\labwork15wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\labwork15wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|c:\\temp\\ispp31\\repo\\labwork15\\labwork15wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D96E0BB-6DA1-4E11-983A-308E680C33A9}|LabWork15Wpf\\LabWork15Wpf.csproj|solutionrelative:labwork15wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketSeller.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\TicketSeller.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\TicketSeller.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\TicketSeller.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPT\\Models\\TicketSeller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:17:53.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\Visitor.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPT\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:16:17.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\User.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\User.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPT\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:14:20.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\Administrator.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\Administrator.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPH\\Models\\Administrator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:12:16.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketSeller.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\TicketSeller.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\TicketSeller.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\TicketSeller.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPH\\Models\\TicketSeller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:10:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\Visitor.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPH\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:09:12.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Models\\User.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Models\\User.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPH\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:07:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LabWork15.csproj",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15\\LabWork15.csproj",
+              "RelativeDocumentMoniker": "LabWork15\\LabWork15.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15\\LabWork15.csproj",
+              "RelativeToolTip": "LabWork15\\LabWork15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T16:55:41.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA4wGkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:45:53.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Contexts\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Contexts\\CinemaDbContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Contexts\\CinemaDbContext.cs",
+              "RelativeToolTip": "AuthLib\\Contexts\\CinemaDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:30:26.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\Visitor.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPC\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:18:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork15\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15\\Program.cs",
+              "RelativeToolTip": "LabWork15\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:10:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Models\\Administrator.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Models\\Administrator.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPT\\Models\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:18:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\User.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\User.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPC\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:18:32.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketSeller.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\TicketSeller.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\TicketSeller.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\TicketSeller.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPC\\Models\\TicketSeller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:19:00.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Models\\Administrator.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Models\\Administrator.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPC\\Models\\Administrator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:19:11.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersTpcContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Contexts\\UsersTpcContext.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPC\\Contexts\\UsersTpcContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPC\\Contexts\\UsersTpcContext.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPC\\Contexts\\UsersTpcContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:20:46.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersTptContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Contexts\\UsersTptContext.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPT\\Contexts\\UsersTptContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPT\\Contexts\\UsersTptContext.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPT\\Contexts\\UsersTptContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:23:31.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserTphContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Contexts\\UserTphContext.cs",
+              "RelativeDocumentMoniker": "UsersLibrary\\UsersTPH\\Contexts\\UserTphContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\UsersLibrary\\UsersTPH\\Contexts\\UserTphContext.cs",
+              "RelativeToolTip": "UsersLibrary\\UsersTPH\\Contexts\\UserTphContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:25:36.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersRolesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:18:39.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRolesWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\UsersRolesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T16:08:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\THUNDER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:03:32.866Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\App.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\App.xaml.cs",
+              "RelativeToolTip": "LabWork15Wpf\\App.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:37:03.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:35:34.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorizationWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\AuthorizationWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\AuthorizationWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\AuthorizationWindow.xaml",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\AuthorizationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T11:35:07.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:30:59.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LabWork15Wpf.csproj",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\LabWork15Wpf.csproj",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\LabWork15Wpf.csproj",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\LabWork15Wpf.csproj",
+              "RelativeToolTip": "LabWork15Wpf\\LabWork15Wpf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T11:27:33.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\App.xaml",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\App.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\App.xaml",
+              "RelativeToolTip": "LabWork15Wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T11:28:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\RegistrationWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\RegistrationWindow.xaml",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T11:28:11.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\UserSession.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\UserSession.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\UserSession.cs",
+              "RelativeToolTip": "LabWork15Wpf\\UserSession.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:15:28.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CinemaUser.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaUser.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaUser.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaUser.cs",
+              "RelativeToolTip": "AuthLib\\Models\\CinemaUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:01:28.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "LabWork15Wpf\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:09:12.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork15Wpf\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\LabWork15Wpf\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork15Wpf\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T10:45:54.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CinemaUserRole.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaUserRole.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaUserRole.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaUserRole.cs",
+              "RelativeToolTip": "AuthLib\\Models\\CinemaUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:43:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CinemaPrivilege.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaPrivilege.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Models\\CinemaPrivilege.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Models\\CinemaPrivilege.cs",
+              "RelativeToolTip": "AuthLib\\Models\\CinemaPrivilege.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:43:03.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Services\\AuthService.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork15\\AuthLib\\Services\\AuthService.cs",
+              "RelativeToolTip": "AuthLib\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwIIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:17:58.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

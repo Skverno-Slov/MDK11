@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\other\\paginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\other\\paginator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECBD931-E960-47B6-A863-EA0F702E7F3F}|LabWork10\\LabWork10.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\labwork10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECBD931-E960-47B6-A863-EA0F702E7F3F}|LabWork10\\LabWork10.csproj|solutionrelative:labwork10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|c:\\temp\\!ispp31\\labworks\\labwork10\\cinemadblibrary\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3660E-BF20-42E6-A9FD-B9EEBDEE6193}|CinemaDbLibrary\\CinemaDbLibrary.csproj|solutionrelative:cinemadblibrary\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paginator.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Other\\Paginator.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Other\\Paginator.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Other\\Paginator.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Other\\Paginator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:41:33.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Services\\GenreService.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\GenreService.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:05:20.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Services\\MovieService.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\MovieService.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:05:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Services\\TicketService.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\TicketService.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:51:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Models\\Movie.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Movie.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:42:02.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Models\\Genre.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Genre.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:38:39.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Models\\Ticket.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Ticket.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:35:46.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Models\\Visitor.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Models\\Visitor.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:25:59.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\LabWork10\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork10\\Program.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\LabWork10\\Program.cs",
+              "RelativeToolTip": "LabWork10\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:23:43.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Services\\VisitorService.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Services\\VisitorService.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Services\\VisitorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:05:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaDbLibrary\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\!ispp31\\LabWorks\\LabWork10\\CinemaDbLibrary\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CinemaDbLibrary\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:47:34.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
