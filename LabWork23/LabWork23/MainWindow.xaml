@@ -1,0 +1,20 @@
+﻿<Window x:Class="LabWork23.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork23"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Bottom"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <TextBlock x:Name="LogoNameTextBlock" Width="300"/>
+            <Button x:Name="SelectFileButton" Content="Выбрать файл логотипа" Click="SelectFileButton_Click"/>
+            <Button x:Name="SaveLogoButton" Content="Сохранить Лого" Click="SaveLogoButton_Click"/>
+            <Button x:Name="SaveScreenshot" Content="Сохранить скриншот" Click="SaveScreenshot_Click"/>
+        </StackPanel>
+        <DataGrid x:Name="GameDataGreed" SelectionChanged="GameDataGreed_SelectionChanged"/>
+    </DockPanel>
+</Window>

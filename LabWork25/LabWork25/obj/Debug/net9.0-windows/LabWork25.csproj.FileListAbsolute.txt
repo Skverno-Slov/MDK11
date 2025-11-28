@@ -281,3 +281,5 @@ C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork25\LabWork25\obj
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork25\LabWork25\obj\Debug\net9.0-windows\LabWork25.pdb
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork25\LabWork25\obj\Debug\net9.0-windows\LabWork25.genruntimeconfig.cache
 C:\Users\THUNDER\OneDrive\Desktop\Repositories\MDK.11.01\LabWork25\LabWork25\obj\Debug\net9.0-windows\ref\LabWork25.dll
+C:\temp\ispp31\Repo\LabWork25\LabWork25\obj\Debug\net9.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\temp\ispp31\Repo\LabWork25\LabWork25\obj\Debug\net9.0-windows\LabWork25.csproj.ResolveComReference.cache
