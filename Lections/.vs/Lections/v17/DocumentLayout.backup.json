@@ -3,52 +3,44 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\Lections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|solutionrelative:lection1114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\accespage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\accespage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1114\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|solutionrelative:lection1114\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD40C23-7FF0-42B4-AB32-C903E6E117EE}|Lection1113\\Lection1113.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD40C23-7FF0-42B4-AB32-C903E6E117EE}|Lection1113\\Lection1113.csproj|solutionrelative:lection1113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD40C23-7FF0-42B4-AB32-C903E6E117EE}|Lection1113\\Lection1113.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1113\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD40C23-7FF0-42B4-AB32-C903E6E117EE}|Lection1113\\Lection1113.csproj|solutionrelative:lection1113\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection1101.csproj|c:\\temp\\ispp31\\repo\\lections\\lection0111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21D8E01-F9CD-489A-9031-6E518D903F6E}|Lection0111\\Lection1101.csproj|solutionrelative:lection0111\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1114\\lection1114.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|solutionrelative:lection1114\\lection1114.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1114\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|solutionrelative:lection1114\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7321D29-C0B1-49AE-9CCC-1B2560436810}|Lection1020\\Lection1020.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7321D29-C0B1-49AE-9CCC-1B2560436810}|Lection1020\\Lection1020.csproj|solutionrelative:lection1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1114\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|solutionrelative:lection1114\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1114\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45A794F1-C05B-4E28-A39D-0702CA2E2A54}|Lection1114\\Lection1114.csproj|solutionrelative:lection1114\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CF84B5B8-8645-458A-94D3-5AE49097D350}|Lection1024\\Lection1024.csproj|solutionrelative:lection1024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|c:\\temp\\ispp31\\repo\\lections\\lection1202\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DEDF1B-5C96-445D-8AF3-6749D40A3105}|Lection1202\\Lection1202.csproj|solutionrelative:lection1202\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,152 +58,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Program.cs",
-              "RelativeDocumentMoniker": "Lection0111\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection0111\\Program.cs",
-              "RelativeToolTip": "Lection0111\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:33:57.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\appsettings.json",
-              "RelativeDocumentMoniker": "Lection1114\\appsettings.json",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\appsettings.json",
-              "RelativeToolTip": "Lection1114\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T07:51:07.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Lection1024\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Lection1024\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T07:50:23.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Lection1114\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Lection1114\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T07:49:38.291Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Program.cs",
-              "RelativeDocumentMoniker": "Lection1114\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Program.cs",
-              "RelativeToolTip": "Lection1114\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:49:17.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Lection1114\\appsettings.Development.json",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\appsettings.Development.json",
-              "RelativeToolTip": "Lection1114\\appsettings.Development.json",
+              "Title": "AccesPage.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\AccesPage.cshtml",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\AccesPage.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\AccesPage.cshtml",
+              "RelativeToolTip": "Lection1202\\Pages\\AccesPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T08:03:59.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "Lection1114\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "Lection1114\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwB0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:46:23.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1113\\AuthService.cs",
-              "RelativeDocumentMoniker": "Lection1113\\AuthService.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1113\\AuthService.cs",
-              "RelativeToolTip": "Lection1113\\AuthService.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:23:25.351Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T08:48:46.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Program.cs",
-              "RelativeDocumentMoniker": "Lection1020\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1020\\Program.cs",
-              "RelativeToolTip": "Lection1020\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Games\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Games\\Index.cshtml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Games\\Index.cshtml.cs",
+              "RelativeToolTip": "Lection1202\\Pages\\Games\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:34:09.652Z"
+              "WhenOpened": "2025-12-04T07:43:07.308Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1113\\Program.cs",
-              "RelativeDocumentMoniker": "Lection1113\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1113\\Program.cs",
-              "RelativeToolTip": "Lection1113\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "Lection1202\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:43:37.564Z",
+              "WhenOpened": "2025-12-04T07:29:20.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Program.cs",
-              "RelativeDocumentMoniker": "Lection1024\\Program.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1024\\Program.cs",
-              "RelativeToolTip": "Lection1024\\Program.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Games\\Index.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Games\\Index.cshtml",
+              "RelativeToolTip": "Lection1202\\Pages\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T08:57:00.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Lection1202\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T08:41:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Lection1202\\Pages\\Categories\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:34:02.363Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T08:32:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lection1202\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T08:30:50.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Lection1114.http",
-              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Lection1114.http",
-              "RelativeDocumentMoniker": "Lection1114\\Lection1114.http",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1114\\Lection1114.http",
-              "RelativeToolTip": "Lection1114\\Lection1114.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-11-17T08:52:07.028Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lection1202\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T08:19:36.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Program.cs",
+              "RelativeDocumentMoniker": "Lection1202\\Program.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Program.cs",
+              "RelativeToolTip": "Lection1202\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:17:22.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Lection1202\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\Lections\\Lection1202\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Lection1202\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:05:42.428Z",
+              "EditorCaption": ""
             }
           ]
         }

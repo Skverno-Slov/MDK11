@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\Repo\\LabWork16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|solutionrelative:labwork16\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{666C55AE-41BB-4098-B6E6-166FE637A5A2}|LabWork16\\LabWork16.csproj|c:\\temp\\ispp31\\repo\\labwork16\\labwork16\\contexts\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,21 +106,19 @@
               "RelativeToolTip": "LabWork16\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:21:09.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:21:09.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "LabWork16\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs*",
-              "RelativeToolTip": "LabWork16\\Controllers\\ValuesController.cs*",
+              "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "LabWork16\\Controllers\\ValuesController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAMwE0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T08:21:07.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T08:21:07.293Z"
             },
             {
               "$type": "Document",
@@ -172,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "LabWork16\\Services\\AuthService.cs",
               "ToolTip": "C:\\temp\\ispp31\\Repo\\LabWork16\\LabWork16\\Services\\AuthService.cs",
               "RelativeToolTip": "LabWork16\\Services\\AuthService.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAewFMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAewFAAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T08:27:41.128Z",
               "EditorCaption": ""
@@ -193,8 +191,7 @@
               "RelativeToolTip": "LabWork16\\Contexts\\CinemaDbContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:23:33.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:23:33.04Z"
             },
             {
               "$type": "Document",
