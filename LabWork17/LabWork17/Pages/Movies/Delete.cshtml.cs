@@ -24,7 +24,7 @@ namespace LabWork17.Pages.Movies
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -43,7 +43,7 @@ namespace LabWork17.Pages.Movies
 
         public async Task<IActionResult> OnPostAsync(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }

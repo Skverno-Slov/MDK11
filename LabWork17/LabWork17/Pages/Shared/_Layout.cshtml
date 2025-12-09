@@ -24,21 +24,27 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="./Movies/Index">Movies</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Movies/Index">Фильмы</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Tickets/Index">Tickets</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Tickets/Index">Билеты</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Sessions/Index">Сеансы</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Visitors/Index">Посетители</a>
                         </li>
                     </ul>
                 </div>
                 @if (Accessor.HttpContext.Session.GetString("Role") is null)
                 {
-                    <a class="btn btn-primary" asp-area="" asp-page="./Login">Войти</a>
+                    <a class="btn btn-primary" asp-area="" asp-page="/Login">Войти</a>
                 }
                 else
                 {
-                    @Accessor.HttpContext.Session.GetString("Role")
-                    <a class="btn btn-primary" asp-area="" asp-page="Login" asp-page-handler="Logout">Выйти</a>
+                    @Accessor.HttpContext.Session.GetString("Login")
+                    <a class="btn btn-primary" asp-area="" asp-page="/Login" asp-page-handler="Logout">Выйти</a>
                 }
             </div>
         </nav>
@@ -51,7 +57,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - LabWork17 - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2025 - LabWork17-18 - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
 

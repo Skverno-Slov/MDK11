@@ -1,50 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using LabWork17.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using LabWork17.Contexts;
-using LabWork17.Models;
 
 namespace LabWork17.Pages.Tickets
 {
-    public class EditModel : PageModel
+    public class EditModel(Contexts.CinemaDbContext context) : PageModel
     {
-        private readonly LabWork17.Contexts.CinemaDbContext _context;
-
-        public EditModel(LabWork17.Contexts.CinemaDbContext context)
-        {
-            _context = context;
-        }
+        private readonly Contexts.CinemaDbContext _context = context;
 
         [BindProperty]
         public Ticket Ticket { get; set; } = default!;
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
 
-            var ticket =  await _context.Tickets.FirstOrDefaultAsync(m => m.TicketId == id);
-            if (ticket == null)
+            var ticket = await _context.Tickets
+                .FirstOrDefaultAsync(m => m.TicketId == id);
+            if (ticket is null)
             {
                 return NotFound();
             }
             Ticket = ticket;
-           ViewData["SessionId"] = new SelectList(_context.Sessions, "SessionId", "SessionId");
-           ViewData["VisitorId"] = new SelectList(_context.Visitors, "VisitorId", "VisitorId");
+            ViewData["SessionId"] = new SelectList(_context.Sessions, "SessionId", "SessionId");
+            ViewData["VisitorId"] = new SelectList(_context.Visitors, "VisitorId", "Phone");
             return Page();
         }
 
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
+            ModelState.Remove("Ticket.Session");
+            ModelState.Remove("Ticket.Visitor");
+
             if (!ModelState.IsValid)
             {
                 return Page();

@@ -1,4 +1,5 @@
 using LabWork17.Contexts;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,9 @@ builder.Services.AddDbContext<CinemaDbContext>();
 builder.Services.AddSession();
 builder.Services.AddHttpContextAccessor();
 
+CultureInfo.DefaultThreadCurrentCulture =
+new CultureInfo("ru-RU") { NumberFormat = { NumberDecimalSeparator = "." } };
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -16,9 +20,10 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Error");
 }
 
-app.UseSession();
+
 app.UseRouting();
 
+app.UseSession();
 app.UseAuthorization();
 
 app.MapStaticAssets();

@@ -23,7 +23,7 @@ namespace LabWork17.Pages.Tickets
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }

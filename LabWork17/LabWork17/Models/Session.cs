@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace LabWork17.Models;
 
@@ -7,19 +6,27 @@ public partial class Session
 {
     public int SessionId { get; set; }
 
+    [Display(Name = "Фильм")]
     public int MovieId { get; set; }
 
+    [Display(Name = "Зал")]
     public byte HallId { get; set; }
 
+    [Display(Name = "Цена")]
+    [DataType(DataType.Currency)]
     public decimal Price { get; set; }
 
+    [Display(Name = "Дата начала")]
     public DateTime StartDate { get; set; }
 
+    [Display(Name = "3D")]
     public bool Is3d { get; set; }
 
-    public virtual Hall Hall { get; set; } = null!;
+    [Display(Name = "Зал")]
+    public virtual Hall? Hall { get; set; }
 
-    public virtual Movie Movie { get; set; } = null!;
+    [Display(Name = "Фильм")]
+    public virtual Movie? Movie { get; set; }
 
     public virtual ICollection<Ticket> Tickets { get; set; } = new List<Ticket>();
 }

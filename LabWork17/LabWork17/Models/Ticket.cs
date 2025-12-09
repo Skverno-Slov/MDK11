@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace LabWork17.Models;
 
@@ -15,7 +16,7 @@ public partial class Ticket
 
     public byte Seat { get; set; }
 
-    public virtual Session Session { get; set; } = null!;
+    public virtual Session? Session { get; set; }
 
-    public virtual Visitor Visitor { get; set; } = null!;
+    public virtual Visitor? Visitor { get; set; }
 }
