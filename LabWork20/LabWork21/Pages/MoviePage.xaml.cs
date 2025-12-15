@@ -30,6 +30,7 @@ public partial class MoviePage : ContentPage
     private void UpdateMovies(List<Movie> movies)
     {
         Movies.Clear();
+        _currentPage = 1;
 
         movies = AddSort(movies);
         movies = AddFilterByName(movies);
@@ -41,9 +42,14 @@ public partial class MoviePage : ContentPage
 
     private List<Movie> AddPagination(List<Movie> movies)
     {
-        //Block Buttons
+        int totalPages = movies.Count / PageSize;
 
-        movies = movies.Skip((_currentPage - 1) * PageSize).ToList();
+        GoBackButton.IsEnabled = _currentPage > 1;
+        GoNextButton.IsEnabled = totalPages > _currentPage;
+
+        CurrentPageLable.Text = _currentPage.ToString();
+
+        movies = movies.Skip((_currentPage - 1) * PageSize).Take(PageSize).ToList();
 
         return movies;
     }
@@ -109,6 +115,24 @@ public partial class MoviePage : ContentPage
     private void MovieNameEntry_Completed(object sender, EventArgs e)
     {
         var movies = Movies.ToList();
+
+        UpdateMovies(movies);
+    }
+
+    private void GoBackButton_Clicked(object sender, EventArgs e)
+    {
+        var movies = Movies.ToList();
+
+        _currentPage--;
+
+        UpdateMovies(movies);
+    }
+
+    private void GoNextButton_Clicked(object sender, EventArgs e)
+    {
+        var movies = Movies.ToList();
+
+        _currentPage++;
 
         UpdateMovies(movies);
     }

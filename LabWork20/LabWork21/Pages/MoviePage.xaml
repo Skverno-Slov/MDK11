@@ -18,6 +18,11 @@
             </Picker.Items>
         </Picker>
         <Entry x:Name="MovieNameEntry" Placeholder="Поиск по названию ..." Completed="MovieNameEntry_Completed"/>
+        <HorizontalStackLayout>
+            <Button x:Name="GoBackButton" Text="-" Clicked="GoBackButton_Clicked"/>
+            <Label x:Name="CurrentPageLable"/>
+            <Button x:Name="GoNextButton" Text="+" Clicked="GoNextButton_Clicked"/>
+        </HorizontalStackLayout>
         <ListView ItemsSource="{Binding Movies}" HorizontalScrollBarVisibility="Always" VerticalScrollBarVisibility="Always">
             <ListView.ItemTemplate>
                 <DataTemplate>
