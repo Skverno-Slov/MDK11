@@ -1,11 +1,17 @@
 ﻿@page
 @model Lection1202.Pages.Games.IndexModel
 
-@{
+@* @{
     ViewData["Title"] = "Index";
-}
+} *@
 
 <h1>Index</h1>
+
+<partial name="_Test"/>
+
+@await Html.PartialAsync("_Test")
+@await Html.PartialAsync("_Test", Model)
+@await Html.PartialAsync("_Test", Model.Game.Count)
 
 <form method="get">
     <input type="text" name="GameName" placeholder="Название игры..."
